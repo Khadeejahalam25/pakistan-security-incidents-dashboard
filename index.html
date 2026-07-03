@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pakistan Security Incidents: Interactive Dashboard</title>
+    <link rel="stylesheet" href="style.css">
+    <style>
+        body {
+            margin: 0;
+            font-family: 'Roboto', sans-serif;
+            background: linear-gradient(135deg, #4b6cb7, #182848);
+            color: white;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            min-height: 100vh;
+            text-align: center;
+        }
+
+        h1 {
+            font-size: 3rem;
+            margin-bottom: 20px;
+            text-transform: uppercase;
+            letter-spacing: 2px;
+            animation: fadeIn 2s ease-out;
+        }
+
+        .description {
+            font-size: 1.2rem;
+            margin-bottom: 40px;
+            animation: fadeIn 2.5s ease-out;
+            max-width: 600px;
+        }
+
+        .card-container {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            gap: 20px;
+        }
+
+        .card {
+            background: white;
+            color: #182848;
+            border-radius: 10px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+            transition: transform 0.3s, box-shadow 0.3s;
+            width: 300px;
+            padding: 20px;
+            text-align: center;
+            animation: popIn 1.5s ease-out;
+        }
+
+        .card:hover {
+            transform: translateY(-10px);
+            box-shadow: 0 8px 16px rgba(0, 0, 0, 0.4);
+        }
+
+        .card h2 {
+            font-size: 1.8rem;
+            margin-bottom: 10px;
+        }
+
+        .card p {
+            font-size: 1rem;
+            margin-bottom: 20px;
+        }
+
+        .card a {
+            display: inline-block;
+            text-decoration: none;
+            color: white;
+            background: #4b6cb7;
+            padding: 10px 20px;
+            border-radius: 5px;
+            font-size: 1rem;
+            font-weight: bold;
+            transition: background 0.3s;
+        }
+
+        .card a:hover {
+            background: #182848;
+        }
+
+        @keyframes fadeIn {
+            from {
+                opacity: 0;
+                transform: translateY(-20px);
+            }
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+
+        @keyframes popIn {
+            0% {
+                opacity: 0;
+                transform: scale(0.8);
+            }
+            100% {
+                opacity: 1;
+                transform: scale(1);
+            }
+        }
+    </style>
+</head>
+<body>
+    <h1>Pakistan Security Incidents Dashboard</h1>
+    <p class="description">Five interactive D3.js visualizations exploring a dataset of security incidents in Pakistan (2018-2020) — perpetrator groups, target types, locations, and trends over time.</p>
+
+    <div class="card-container">
+        <div class="card">
+            <h2>Force-Directed Graph</h2>
+            <p>Visualize entities and their relationships dynamically.</p>
+            <a href="forceDirected.html" target="_blank">View Graph</a>
+        </div>
+        <div class="card">
+            <h2>Map Chart</h2>
+            <p>Explore geographical data with pins and interactions.</p>
+            <a href="mapChart.html" target="_blank">View Map</a>
+        </div>
+        <div class="card">
+            <h2>Timeline with Animation</h2>
+            <p>Discover the progression of data over time.</p>
+            <a href="timeline.html" target="_blank">View Timeline</a>
+        </div>
+        <div class="card">
+            <h2>Hierarchical Tree Map</h2>
+            <p>Analyze entity relationships through nested categories.</p>
+            <a href="treeMap.html" target="_blank">View Tree Map</a>
+        </div>
+        <div class="card">
+            <h2>Sunburst Chart</h2>
+            <p>Engage with hierarchical data in a radial format.</p>
+            <a href="sunburst.html" target="_blank">View Sunburst</a>
+        </div>
+    </div>
+</body>
+</html>

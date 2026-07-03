@@ -1,0 +1,65 @@
+entity,parent,value
+root,,
+Business,root,
+Educational Institution,root,
+Government (Diplomatic),root,
+Government (General),root,
+Journalists & Media,root,
+Military,root,
+NGO,root,
+Police,root,
+Private Citizens & Property,root,
+Religious Figures/Institutions,root,
+Telecommunication,root,
+Terrorists/Non-state Militia,root,
+Transportation,root,
+Unknown,root,
+Utilities,root,
+Violent Political Party,root,
+Business - Baloch Liberation Army (BLA),Business,5
+Business - Khorasan Chapter of the Islamic State,Business,2
+Business - Tehrik-i-Taliban Pakistan (TTP),Business,2
+Business - Unknown,Business,40
+Educational Institution - Khorasan Chapter of the Islamic State,Educational Institution,2
+Educational Institution - Tehrik-i-Taliban Pakistan (TTP),Educational Institution,14
+Educational Institution - Unknown,Educational Institution,19
+Government (Diplomatic) - Unknown,Government (Diplomatic),5
+Government (General) - Baloch Liberation Front (BLF),Government (General),2
+Government (General) - Hizb-ul-Ahrar (HuA),Government (General),3
+Government (General) - Tehrik-i-Taliban Pakistan (TTP),Government (General),5
+Government (General) - Unknown,Government (General),47
+Journalists & Media - Unknown,Journalists & Media,15
+Military - Baloch Liberation Army (BLA),Military,12
+Military - Baloch Liberation Front (BLF),Military,10
+Military - Baloch Raji Ajoi Sangar (BRAS),Military,2
+Military - Hizb-ul-Ahrar (HuA),Military,39
+Military - Khorasan Chapter of the Islamic State,Military,2
+Military - Sindhudesh Revolutionary Army (SRA),Military,4
+Military - Tehrik-i-Taliban Pakistan (TTP),Military,29
+Military - Unknown,Military,131
+NGO - Unknown,NGO,3
+Police - Hizb-ul-Ahrar (HuA),Police,17
+Police - Khorasan Chapter of the Islamic State,Police,9
+Police - Pakistan Province of the Islamic State,Police,2
+Police - Tehrik-i-Taliban Pakistan (TTP),Police,32
+Police - Unknown,Police,113
+Private Citizens & Property - Baloch Nationalists,Private Citizens & Property,2
+Private Citizens & Property - Hizb-ul-Ahrar (HuA),Private Citizens & Property,5
+Private Citizens & Property - Khorasan Chapter of the Islamic State,Private Citizens & Property,8
+Private Citizens & Property - Sindhudesh Revolutionary Army (SRA),Private Citizens & Property,4
+Private Citizens & Property - Tehrik-i-Taliban Pakistan (TTP),Private Citizens & Property,13
+Private Citizens & Property - Unknown,Private Citizens & Property,189
+Religious Figures/Institutions - Khorasan Chapter of the Islamic State,Religious Figures/Institutions,2
+Religious Figures/Institutions - Pakistan Province of the Islamic State,Religious Figures/Institutions,2
+Religious Figures/Institutions - Unknown,Religious Figures/Institutions,30
+Telecommunication - Unknown,Telecommunication,3
+Terrorists/Non-state Militia - Tehrik-i-Taliban Pakistan (TTP),Terrorists/Non-state Militia,3
+Terrorists/Non-state Militia - Unknown,Terrorists/Non-state Militia,7
+Transportation - Baloch Republican Army (BRA),Transportation,3
+Transportation - Unknown,Transportation,18
+Unknown - Baloch Liberation Army (BLA),Unknown,2
+Unknown - Unknown,Unknown,60
+Utilities - Baloch Republican Army (BRA),Utilities,2
+Utilities - Unknown,Utilities,5
+Violent Political Party - Sindhudesh Revolutionary Army (SRA),Violent Political Party,2
+Violent Political Party - Unknown,Violent Political Party,27

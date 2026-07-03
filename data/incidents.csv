@@ -1,0 +1,1001 @@
+gtd_id,date,country,city,perpetrator_group,fatalities,injured,target_type
+202012300017,2020-12-30,Pakistan,Teri,Muslim extremists,0,0,Religious Figures/Institutions
+202012300015,2020-12-30,Pakistan,Hyderabad,Unknown,0,1,Police
+202012290005,2020-12-29,Pakistan,Surab,Unknown,0,14,"Military,Private Citizens & Property"
+202012270002,2020-12-27,Pakistan,Bolan,Baloch Liberation Army (BLA),0,6,Military
+202012260007,2020-12-26,Pakistan,Panjgur,Unknown,2,6,Private Citizens & Property
+202012260006,2020-12-26,Pakistan,Shahrag,Baloch Liberation Army (BLA),7,6,Military
+202012230011,2020-12-23,Pakistan,Mir Ali,Unknown,3,17,Military
+202012230010,2020-12-23,Pakistan,Sibi,Unknown,0,0,Government (General)
+202012220029,2020-12-22,Pakistan,Karachi,Sindhudesh Revolutionary Army (SRA),0,0,Private Citizens & Property
+202012220024,2020-12-22,Pakistan,Rotcha,Unknown,0,0,Unknown
+202012200018,2020-12-20,Pakistan,Peshawar,Unknown,1,0,Police
+202012180027,2020-12-18,Pakistan,Unknown,Tehrik-i-Taliban Pakistan (TTP),1,0,Private Citizens & Property
+202012180015,2020-12-18,Pakistan,Quetta,Unknown,0,0,Military
+202012160029,2020-12-16,Pakistan,Upper Orakzai,Unknown,2,0,Business
+202012160010,2020-12-15,Pakistan,Karachi,Sindhudesh Revolutionary Army (SRA),0,0,Private Citizens & Property
+202012150013,2020-12-15,Pakistan,Karachi,Sindhudesh Revolutionary Army (SRA),0,4,"Educational Institution,Military"
+202012130007,2020-12-13,Pakistan,Rawalpindi,Unknown,1,24,Private Citizens & Property
+202012120029,2020-12-12,Pakistan,Wali Khan,Unknown,0,0,Transportation
+202012080012,2020-12-08,Pakistan,Hoshab,Unknown,2,0,Private Citizens & Property
+202012080011,2020-12-08,Pakistan,Tump,Unknown,3,0,Private Citizens & Property
+202012070025,2020-12-07,Pakistan,Madina,Unknown,1,0,Journalists & Media
+202012060027,2020-12-06,Pakistan,Mullazai,Unknown,0,2,Police
+202012040003,2020-12-04,Pakistan,Rawalpindi,Unknown,1,7,Business
+202012030015,2020-12-03,Pakistan,Kamoki,Unknown,1,0,Private Citizens & Property
+202012020017,2020-12-02,Pakistan,Bannu district,Unknown,1,0,Police
+202012010032,2020-12-01,Pakistan,Letai,Unknown,1,1,Private Citizens & Property
+202012010031,2020-12-01,Pakistan,Letai,Unknown,1,0,Private Citizens & Property
+202012010030,2020-12-01,Pakistan,Letai,Unknown,1,0,Private Citizens & Property
+202011300009,2020-11-30,Pakistan,Miran Shah,Unknown,4,0,Private Citizens & Property
+202011270011,2020-11-28,Pakistan,Lund Khwar,Unknown,0,0,Police
+202011260020,2020-11-26,Pakistan,Taru Jabba,Tehrik-i-Taliban Pakistan (TTP),1,0,Police
+202011260011,2020-11-26,Pakistan,Unknown,Unknown,0,1,Police
+202011260008,2020-11-26,Pakistan,Mir Ali,Unknown,4,0,Business
+202011240013,2020-11-24,Pakistan,Barki,Tehrik-i-Taliban Pakistan (TTP),1,0,Police
+202011230007,2020-11-23,Pakistan,Pishin,Unknown,0,0,Unknown
+202011220007,2020-11-22,Pakistan,Machh,Unknown,0,0,Transportation
+202011210036,2020-11-21,Pakistan,Mahmood,Unknown,0,0,Terrorists/Non-state Militia
+202011200013,2020-11-20,Pakistan,Nankana Sahib district,Unknown,1,3,Private Citizens & Property
+202011180005,2020-11-18,Pakistan,Push Ziarat,Tehrik-i-Taliban Pakistan (TTP),2,1,Military
+202011170009,2020-11-17,Pakistan,Shahkas,Unknown,1,1,Police
+202011120037,2020-11-12,Pakistan,Khurachai,Unknown,1,0,Private Citizens & Property
+202011120031,2020-11-12,Pakistan,Quetta,Baloch Liberation Army (BLA),0,6,Police
+202011120025,2020-11-12,Pakistan,North Waziristan district,Unknown,4,0,Business
+202011110024,2020-11-11,Pakistan,Tordher,Unknown,1,0,Educational Institution
+202011090017,2020-11-09,Pakistan,Loai-Alizai,Unknown,1,0,Private Citizens & Property
+202011080036,2020-11-08,Pakistan,Peshawar,Unknown,1,0,Private Citizens & Property
+202011030013,2020-11-03,Pakistan,Manzakai,Tehrik-i-Taliban Pakistan (TTP),1,2,Military
+202010290009,2020-10-29,Pakistan,Miran Shah,Unknown,1,0,"Police,Private Citizens & Property"
+202010280017,2020-10-28,Pakistan,Spin Wam,Unknown,0,2,Military
+202010270009,2020-10-27,Pakistan,Peshawar,Pakistan Province of the Islamic State,8,120,Educational Institution
+202010250009,2020-10-25,Pakistan,Hazar Ganji,Unknown,3,7,Private Citizens & Property
+202010220014,2020-10-22,Pakistan,Makin,Unknown,0,0,NGO
+202010200020,2020-10-20,Pakistan,Karachi,Unknown,0,6,Transportation
+202010180019,2020-10-18,Pakistan,Damadola,Unknown,1,0,Private Citizens & Property
+202010180018,2020-10-18,Pakistan,Mirali,Unknown,1,0,Military
+202010180017,2020-10-18,Pakistan,Datta Khel,Unknown,1,0,Educational Institution
+202010170019,2020-10-17,Pakistan,Kech district,Baloch Nationalists,1,3,Military
+202010160029,2020-10-16,Pakistan,Shahrag,Unknown,0,3,Business
+202010160025,2020-10-16,Pakistan,Bara,Unknown,0,0,Military
+202010160015,2020-10-16,Pakistan,Darora,Unknown,0,0,Unknown
+202010150004,2020-10-15,Pakistan,Ormara,Baloch Raji Ajoi Sangar (BRAS),14,0,"Business,Military"
+202010150003,2020-10-14,Pakistan,Razmak,Tehrik-i-Taliban Pakistan (TTP),6,0,Military
+202010140017,2020-10-14,Pakistan,Bajaur district,Tehrik-i-Taliban Pakistan (TTP),1,1,Military
+202010140016,2020-10-14,Pakistan,Quetta,Unknown,0,10,Business
+202010120017,2020-10-12,Pakistan,Mir Ali,Unknown,0,1,Military
+202010110017,2020-10-11,Pakistan,Panjgur district,Unknown,0,0,Private Citizens & Property
+202010100013,2020-10-10,Pakistan,Karachi,Unknown,2,0,Religious Figures/Institutions
+202010100010,2020-10-10,Pakistan,Shawal,Unknown,2,3,Military
+202010090016,2020-10-09,Pakistan,Ladha,Unknown,1,1,Military
+202010080020,2020-10-08,Pakistan,Turbat,Unknown,1,0,Private Citizens & Property
+202010060005,2020-10-06,Pakistan,Namaz Kot,Tehrik-i-Taliban Pakistan (TTP) (suspected),0,0,Telecommunication
+202010050015,2020-10-05,Pakistan,Peshawar,Unknown,1,0,Educational Institution
+202010040006,2020-10-04,Pakistan,Katwai,Unknown,0,0,Private Citizens & Property
+202010010019,2020-10-01,Pakistan,Galgot,Tehrik-i-Taliban Pakistan (TTP),1,0,Violent Political Party
+202009300031,2020-09-30,Pakistan,Lal Qila,Unknown,0,0,Private Citizens & Property
+202009290011,2020-09-29,Pakistan,Mardan district,Unknown,4,17,"Private Citizens & Property,Police"
+202009280021,2020-09-28,Pakistan,Landai Nur,Unknown,1,0,Military
+202009270028,2020-09-27,Pakistan,Karachi,Unknown,0,2,Religious Figures/Institutions
+202009270024,2020-09-27,Pakistan,Chaman,Unknown,0,1,"Private Citizens & Property,Police"
+202009250017,2020-09-25,Pakistan,Malikwal,Unknown,1,0,Journalists & Media
+202009230027,2020-09-23,Pakistan,Barjo Gat,Tehrik-i-Taliban Pakistan (TTP),0,2,Terrorists/Non-state Militia
+202009210042,2020-09-21,Pakistan,Mir Ali,Unknown,1,0,Business
+202009210041,2020-09-21,Pakistan,Kohlu,Unknown,0,0,Private Citizens & Property
+202009210031,2020-09-21,Pakistan,Bajaur district,Tehrik-i-Taliban Pakistan (TTP),1,0,Military
+202009200028,2020-09-20,Pakistan,Spelga,Unknown,2,0,Military
+202009180019,2020-09-18,Pakistan,Karachi,Tehrik-i-Taliban Pakistan (TTP),1,0,Police
+202009170022,2020-09-17,Pakistan,Manjhoo Shori,Unknown,0,1,Business
+202009160021,2020-09-16,Pakistan,Markhani Maidan,Tehrik-i-Taliban Pakistan (TTP),0,0,Government (General)
+202009140033,2020-09-14,Pakistan,Kotera,Unknown,2,2,Violent Political Party
+202009140031,2020-09-14,Pakistan,Makin,Unknown,1,3,Military
+202009120021,2020-09-12,Pakistan,Miran Shah,Unknown,1,0,Military
+202009090009,2020-09-09,Pakistan,Palosai,Unknown,1,1,Private Citizens & Property
+202009060022,2020-09-06,Pakistan,Hassu Khel,Unknown,0,2,Military
+202009050029,2020-09-05,Pakistan,Gulshan,Unknown,1,2,Military
+202009050013,2020-09-05,Pakistan,Jani Khel,Unknown,0,0,Unknown
+202009050012,2020-09-05,Pakistan,Kaskai,Tehrik-i-Taliban Pakistan (TTP),3,0,Military
+202009040016,2020-09-01,Pakistan,Mashkai,Unknown,0,0,Private Citizens & Property
+202009040005,2020-09-04,Pakistan,Quetta,Unknown,0,4,"Religious Figures/Institutions,Military"
+202009030022,2020-09-03,Pakistan,Paganzan,Baloch Liberation Front (BLF),0,0,Military
+202009030004,2020-09-03,Pakistan,Ghariom,Tehrik-i-Taliban Pakistan (TTP),3,4,Military
+202009010033,2020-09-01,Pakistan,Boya,Unknown,0,0,Telecommunication
+202008310022,2020-08-31,Pakistan,Hayat Serai,Unknown,0,1,Police
+202008310013,2020-08-31,Pakistan,Karachi,Unknown,0,3,Business
+202008310012,2020-08-31,Pakistan,Karachi,Unknown,0,2,Police
+202008300008,2020-08-30,Pakistan,Mir Ali,Unknown,0,0,Government (General)
+202008200022,2020-08-20,Pakistan,Mamund,Unknown,0,0,Unknown
+202008180021,2020-08-18,Pakistan,Lahore,"Hizb-ul-Ahrar (HuA),Tehrik-i-Taliban Pakistan (TTP)",0,0,Police
+202008150027,2020-08-15,Pakistan,Pindiali,Unknown,1,2,Private Citizens & Property
+202008130039,2020-08-13,Pakistan,North Waziristan district,Unknown,0,2,Military
+202008130038,2020-08-13,Pakistan,Turbat,Unknown,1,0,Police
+202008130036,2020-08-13,Pakistan,Qadir Abad,Unknown,0,0,Police
+202008130031,2020-08-13,Pakistan,Karachi,Unknown,1,0,Police
+202008130027,2020-08-13,Pakistan,Mastung,Unknown,0,5,Business
+202008120027,2020-08-12,Pakistan,Quetta,Unknown,1,6,Business
+202008120021,2020-08-12,Pakistan,Peshawar,Unknown,1,0,Private Citizens & Property
+202008110027,2020-08-11,Pakistan,Ladha,Tehrik-i-Taliban Pakistan (TTP),1,3,Military
+202008110026,2020-08-11,Pakistan,Karachi,Sindhi nationalists (suspected),0,7,Private Citizens & Property
+202008100024,2020-08-10,Pakistan,Jacobabad,Sindhudesh Revolutionary Army (SRA),0,0,Military
+202008100023,2020-08-10,Pakistan,Shikarpur,Sindhudesh Revolutionary Army (SRA),0,0,Military
+202008100009,2020-08-10,Pakistan,Munda Qala,Unknown,0,3,Police
+202008100006,2020-08-10,Pakistan,Hub,Unknown,0,8,Police
+202008100005,2020-08-10,Pakistan,Chaman,"Hizb-ul-Ahrar (HuA),Tehrik-i-Taliban Pakistan (TTP)",5,10,"Police,Private Citizens & Property"
+202008090017,2020-08-09,Pakistan,Ubhaya Pul,Unknown,1,0,Religious Figures/Institutions
+202008080003,2020-08-08,Pakistan,Chajo,Pakistan Province of the Islamic State,1,1,Police
+202008050007,2020-08-05,Pakistan,Karachi,Sindhudesh Revolutionary Army (SRA) (suspected),0,3,Business
+202008050006,2020-08-05,Pakistan,Karachi,Sindhudesh Revolutionary Army (SRA),1,28,Private Citizens & Property
+202008050005,2020-08-05,Pakistan,Bin Shahi,Tehrik-i-Taliban Pakistan (TTP),1,2,Police
+202007310008,2020-07-31,Pakistan,Nondara,Baloch Liberation Front (BLF),0,0,Military
+202007300018,2020-07-30,Pakistan,Karachi,Unknown,1,0,Police
+202007300016,2020-07-30,Pakistan,Manguli,Baloch Liberation Front (BLF),0,0,Military
+202007300004,2020-07-29,Pakistan,Peshawar,Unknown,1,0,Private Citizens & Property
+202007290004,2020-07-29,Pakistan,Bajaur district,Unknown,1,0,Military
+202007260004,2020-07-26,Pakistan,Pir Koh,Unknown,0,3,Private Citizens & Property
+202007250023,2020-07-25,Pakistan,Karachi,Unknown,0,0,Police
+202007250011,2020-07-25,Pakistan,Pidarak,Unknown,1,3,Military
+202007240012,2020-07-24,Pakistan,Idak,Unknown,1,3,Military
+202007230029,2020-07-23,Pakistan,Mehraban Kallay,Unknown,0,0,Unknown
+202007230017,2020-07-23,Pakistan,Barkhan,Unknown,1,0,Journalists & Media
+202007230011,2020-07-23,Pakistan,Parachinar,Unknown,0,17,Private Citizens & Property
+202007210019,2020-07-21,Pakistan,North Waziristan district,Unknown,3,2,Military
+202007210008,2020-07-21,Pakistan,Islamabad,Unknown,0,0,Journalists & Media
+202007210007,2020-07-21,Pakistan,Turbat,Unknown,1,7,Private Citizens & Property
+202007180013,2020-07-18,Pakistan,Mashkel,Unknown,2,6,Police
+202007140018,2020-07-14,Pakistan,Kaga,Unknown,0,1,Private Citizens & Property
+202007140008,2020-07-14,Pakistan,Gichak,Baloch Liberation Front (BLF),3,8,Military
+202007120016,2020-07-12,Pakistan,Panjgur,Unknown,1,1,Religious Figures/Institutions
+202007110022,2020-07-11,Pakistan,Mastung district,Unknown,0,2,Police
+202007100006,2020-07-10,Pakistan,Lower Dir district,Unknown,1,1,Police
+202007090029,2020-07-09,Pakistan,Karachi,Unknown,0,0,Violent Political Party
+202007080017,2020-07-08,Pakistan,Karachi,Sindhudesh Revolutionary Army (SRA),1,0,Business
+202007080016,2020-07-08,Pakistan,Bara,Unknown,0,0,Violent Political Party
+202007050018,2020-07-05,Pakistan,Karachi,Unknown,0,0,Unknown
+202007020016,2020-07-02,Pakistan,Kamar Sar,Unknown,1,0,Business
+202006300003,2020-06-30,Pakistan,Spinwam,Unknown,0,0,Police
+202006300002,2020-06-30,Pakistan,Ghulam Khan,Unknown,0,2,Military
+202006290009,2020-06-29,Pakistan,Karachi,Baloch Liberation Army (BLA),7,7,Business
+202006280016,2020-06-28,Pakistan,Tati Madda Khel,Unknown,0,0,Police
+202006280013,2020-06-28,Pakistan,Jani Khel,Unknown,3,0,Military
+202006260008,2020-06-26,Pakistan,Khadi,Unknown,0,2,Military
+202006250003,2020-06-25,Pakistan,Charmun Hilal Khel,Unknown,0,4,Private Citizens & Property
+202006220006,2020-06-22,Pakistan,Parachinar,Unknown,0,2,"Police,Private Citizens & Property"
+202006210010,2020-06-21,Pakistan,Mamond,Unknown,0,0,Private Citizens & Property
+202006210009,2020-06-21,Pakistan,Kohat,Muslim extremists,1,0,Police
+202006210008,2020-06-21,Pakistan,Mirkhoni,Tehrik-i-Taliban Pakistan (TTP),3,2,Military
+202006200036,2020-06-20,Pakistan,Mir Ali,Unknown,0,0,Military
+202006190014,2020-06-19,Pakistan,Larkana,"Muttahida Qami Movement (MQM),Sindhudesh Revolutionary Army (SRA)",0,0,Educational Institution
+202006190013,2020-06-19,Pakistan,Ghotki district,"Muttahida Qami Movement (MQM),Sindhudesh Revolutionary Army (SRA)",3,2,"Military,Private Citizens & Property"
+202006190006,2020-06-19,Pakistan,Karachi,"Muttahida Qami Movement (MQM),Sindhudesh Revolutionary Army (SRA)",1,8,"Government (General),Military,Private Citizens & Property"
+202006180018,2020-06-18,Pakistan,Qambar,Unknown,1,1,Police
+202006120016,2020-06-12,Pakistan,Kahna,Unknown,0,0,Police
+202006120015,2020-06-12,Pakistan,Mir Ali,Unknown,0,0,Military
+202006120014,2020-06-12,Pakistan,Khaisor Katera,Unknown,1,0,Military
+202006120008,2020-06-12,Pakistan,Rawalpindi,Unknown,1,12,Private Citizens & Property
+202006100023,2020-06-10,Pakistan,Wargarey,Unknown,0,0,Police
+202006100019,2020-06-10,Pakistan,Shandi More,Unknown,0,0,Private Citizens & Property
+202006100007,2020-06-10,Pakistan,Tappi,Unknown,2,4,Military
+202006100006,2020-06-10,Pakistan,Karachi,Sindhudesh Revolutionary Army (SRA),0,1,Military
+202006100005,2020-06-10,Pakistan,Karachi,Sindhudesh Revolutionary Army (SRA),0,1,Military
+202006080011,2020-06-08,Pakistan,Tughalkhel,Unknown,2,1,Police
+202006050023,2020-06-04,Pakistan,Damadola,Unknown,2,0,Educational Institution
+202006020028,2020-06-02,Pakistan,Taluka Lakhi Ghulam Shah,Unknown,0,1,Journalists & Media
+202006010034,2020-06-01,Pakistan,Larkana,Unknown,0,0,Unknown
+202005270026,2020-05-27,Pakistan,Jacobabad,Unknown,1,0,Journalists & Media
+202005270021,2020-05-27,Pakistan,Gardaoo,Unknown,1,1,Private Citizens & Property
+202005260017,2020-05-26,Pakistan,Godagil,Unknown,0,0,Unknown
+202005260014,2020-05-26,Pakistan,Wana,Unknown,1,1,Private Citizens & Property
+202005260010,2020-05-26,Pakistan,Islamabad,Hizb-ul-Ahrar (HuA),2,0,Police
+202005250023,2020-05-25,Pakistan,Mir Ali,Unknown,0,0,Military
+202005240011,2020-05-24,Pakistan,Hassu Khel,Unknown,3,0,"Government (General),Private Citizens & Property,Private Citizens & Property"
+202005230017,2020-05-23,Pakistan,Kohat district,Unknown,1,1,Police
+202005210008,2020-05-21,Pakistan,Sharif Khana,Unknown,1,0,Government (Diplomatic)
+202005210007,2020-05-21,Pakistan,Hilal Khel,Unknown,1,1,Private Citizens & Property
+202005180010,2020-05-18,Pakistan,Idak,Unknown,1,3,Military
+202005180009,2020-05-18,Pakistan,Mand,Baloch Liberation Army (BLA),1,0,Military
+202005180008,2020-05-18,Pakistan,Pir Ghaib,"Baloch Liberation Army (BLA),United Baloch Army (UBA)",6,0,"Military,Private Citizens & Property"
+202005150026,2020-05-15,Pakistan,Siddique Abad,Unknown,0,0,Private Citizens & Property
+202005140021,2020-05-14,Pakistan,Karachi,Unknown,0,1,Private Citizens & Property
+202005120024,2020-05-12,Pakistan,Naurang,Unknown,0,0,Business
+202005120010,2020-05-12,Pakistan,Dashti Goran,Unknown,1,1,Private Citizens & Property
+202005110009,2020-05-11,Pakistan,Peshawar,Unknown,0,5,"Police,Private Citizens & Property"
+202005080003,2020-05-08,Pakistan,Makran,Baloch Liberation Army (BLA),6,1,Military
+202005070009,2020-05-07,Pakistan,Upper Dir district,Unknown,0,0,Business
+202005070008,2020-05-07,Pakistan,Idak,Unknown,2,0,Military
+202005060007,2020-05-06,Pakistan,Mattani,Unknown,0,0,Unknown
+202005050003,2020-05-05,Pakistan,Shoorki,Unknown,1,0,Religious Figures/Institutions
+202005030015,2020-05-03,Pakistan,Bannu,Unknown,0,0,Unknown
+202005030003,2020-05-03,Pakistan,Dera Ghazi Khan,Unknown,0,0,Transportation
+202005030002,2020-05-03,Pakistan,Dabar,Unknown,0,0,Unknown
+202005010022,2020-05-01,Pakistan,Ghwa Khwa,Unknown,1,0,Private Citizens & Property
+202004270023,2020-04-27,Pakistan,Nasirabad district,Unknown,0,0,Business
+202004270021,2020-04-27,Pakistan,Charming,Unknown,0,0,Private Citizens & Property
+202004250021,2020-04-25,Pakistan,Mir Ali,Unknown,3,0,Military
+202004250019,2020-04-25,Pakistan,Datta Khel,Unknown,11,0,Military
+202004230011,2020-04-23,Pakistan,Sohbatpur district,Unknown,0,1,Private Citizens & Property
+202004210015,2020-04-21,Pakistan,Mir Ali,Unknown,1,1,Military
+202004200007,2020-04-20,Pakistan,Boya,Hafiz Gul Bahadur Group,6,3,Military
+202004180017,2020-04-18,Pakistan,Bara Lagharai,Unknown,0,0,Private Citizens & Property
+202004140022,2020-04-14,Pakistan,Charmang,Unknown,0,0,Unknown
+202004130029,2020-04-12,Pakistan,Mali Khel,Unknown,0,0,Unknown
+202004130006,2020-04-13,Pakistan,Speenwam,Unknown,1,1,Military
+202004120030,2020-04-12,Pakistan,North Waziristan district,Unknown,1,1,Military
+202004110027,2020-04-11,Pakistan,Idak,Unknown,0,0,Military
+202004100010,2020-04-10,Pakistan,Chaman,Unknown,2,2,Military
+202004080003,2020-04-08,Pakistan,Nowshera district,Unknown,0,0,Violent Political Party
+202004070018,2020-04-07,Pakistan,Gorky,Unknown,0,1,Police
+202004070017,2020-04-07,Pakistan,Sharag,Unknown,2,0,Business
+202004060018,2020-04-06,Pakistan,Panhwar Sanhri,Unknown,0,3,Private Citizens & Property
+202004050005,2020-04-05,Pakistan,Shakai,Unknown,0,4,Private Citizens & Property
+202004020029,2020-04-02,Pakistan,Sibi district,Unknown,0,0,Business
+202004010015,2020-04-01,Pakistan,Balgatar,Unknown,2,0,Private Citizens & Property
+202003300004,2020-03-30,Pakistan,Miran Shah,Unknown,0,1,Police
+202003290012,2020-03-29,Pakistan,Razmak,Unknown,0,1,Unknown
+202003280014,2020-03-28,Pakistan,Mir Ali,Unknown,0,2,Military
+202003260009,2020-03-26,Pakistan,Mand Redeeg,Unknown,2,4,Military
+202003250015,2020-03-25,Pakistan,Rajanpur,Unknown,0,0,Utilities
+202003250014,2020-03-25,Pakistan,Rojhan,Baloch Liberation Army (BLA),0,0,Unknown
+202003220028,2020-03-22,Pakistan,Ghalanai,Unknown,0,0,Journalists & Media
+202003190018,2020-03-19,Pakistan,Arghunja,Unknown,2,0,Police
+202003180030,2020-03-16,Pakistan,Kharian,Unknown,0,1,Religious Figures/Institutions
+202003160014,2020-03-16,Pakistan,Quetta,Unknown,0,0,Unknown
+202003140013,2020-03-14,Pakistan,Bannu,Unknown,0,0,Unknown
+202003120015,2020-03-12,Pakistan,Jacobabad,Unknown,0,0,Unknown
+202003120011,2020-03-12,Pakistan,Rawalpindi,Unknown,0,5,Business
+202003110029,2020-03-11,Pakistan,Kanju,Unknown,1,0,Police
+202003090011,2020-03-09,Pakistan,Shahdara,Unknown,1,0,Educational Institution
+202003090008,2020-03-09,Pakistan,Gulistan,Unknown,0,2,Private Citizens & Property
+202003070005,2020-03-07,Pakistan,Chaman,Unknown,0,6,"Police,Private Citizens & Property"
+202003020040,2020-03-02,Pakistan,Wali Noor,Unknown,0,0,Unknown
+202003010025,2020-03-01,Pakistan,Gandawa,Unknown,0,1,Unknown
+202002280023,2020-02-28,Pakistan,Karachi,Sindhudesh Revolutionary Army (SRA),0,1,Police
+202002250008,2020-02-25,Pakistan,Shakardara,Unknown,1,0,Violent Political Party
+202002240018,2020-02-24,Pakistan,Khar,Unknown,0,0,Private Citizens & Property
+202002240017,2020-02-24,Pakistan,Yazman,Unknown,0,2,Violent Political Party
+202002230023,2020-02-23,Pakistan,Peshawar,Unknown,0,0,Police
+202002180036,2020-02-18,Pakistan,Sangsila,"Baloch Liberation Front (BLF),Baloch Republican Army (BRA)",16,0,Military
+202002180018,2020-02-18,Pakistan,Kulachi,Tehrik-i-Taliban Pakistan (TTP),1,2,"Police,Private Citizens & Property"
+202002180007,2020-02-19,Pakistan,Balnigore,Unknown,8,3,Military
+202002170001,2020-02-17,Pakistan,Quetta,Pakistan Province of the Islamic State,8,21,"Religious Figures/Institutions,Police"
+202002120010,2020-02-12,Pakistan,Dera Ismail Khan,Pakistan Province of the Islamic State,0,0,Police
+202002090036,2020-02-09,Pakistan,Lahore,Unknown,0,0,Violent Political Party
+202002090019,2020-02-09,Pakistan,Shahrag,Unknown,1,5,Military
+202002080023,2020-02-08,Pakistan,Karachi,Unknown,0,2,Private Citizens & Property
+202002050021,2020-02-05,Pakistan,Harnai,Unknown,1,1,"Religious Figures/Institutions,Police"
+202002040022,2020-02-04,Pakistan,Zando,Unknown,0,0,Unknown
+202002020020,2020-02-02,Pakistan,Batwar,Unknown,7,0,Private Citizens & Property
+202002010020,2020-02-01,Pakistan,Mir Ali,Unknown,1,0,Unknown
+202001300017,2020-01-30,Pakistan,Khanabad,Unknown,0,3,Private Citizens & Property
+202001300009,2020-01-30,Pakistan,Nasirabad,Baloch Liberation Army (BLA),1,0,Unknown
+202001290026,2020-01-29,Pakistan,Torkham,Unknown,0,0,Military
+202001290010,2020-01-29,Pakistan,Parmoli,Unknown,2,0,Private Citizens & Property
+202001270019,2020-01-27,Pakistan,Rahim Yar Khan,Unknown,0,0,Utilities
+202001270017,2020-01-27,Pakistan,Khutti,Unknown,0,0,Police
+202001260002,2020-01-26,Pakistan,Dara,Unknown,1,1,Police
+202001260001,2020-01-26,Pakistan,Dara,Unknown,0,2,Police
+202001240009,2020-01-24,Pakistan,Chaman,Unknown,0,0,Unknown
+202001230015,2020-01-23,Pakistan,Toda Mela,Unknown,1,0,Private Citizens & Property
+202001230003,2020-01-23,Pakistan,Larama,Unknown,0,1,Private Citizens & Property
+202001210030,2020-01-21,Pakistan,Dara,Unknown,0,2,Police
+202001210029,2020-01-21,Pakistan,Dara,Unknown,1,0,Police
+202001210004,2020-01-21,Pakistan,Inayat Qala,Unknown,0,0,Unknown
+202001200019,2020-01-20,Pakistan,Lehri,Unknown,0,3,Private Citizens & Property
+202001200010,2020-01-20,Pakistan,Dag,Unknown,0,0,Private Citizens & Property
+202001150030,2020-01-15,Pakistan,Unknown,Unknown,1,0,Private Citizens & Property
+202001140002,2020-01-14,Pakistan,Karkhano,Unknown,0,10,"Police,Private Citizens & Property"
+202001110018,2020-01-11,Pakistan,Rawalpindi,Unknown,1,3,Private Citizens & Property
+202001100001,2020-01-10,Pakistan,Quetta,Pakistan Province of the Islamic State,16,20,"Religious Figures/Institutions,Police"
+202001080018,2020-01-08,Pakistan,Gambila,Unknown,1,0,Military
+202001070011,2020-01-07,Pakistan,Rawalpindi,Unknown,3,4,Police
+202001070001,2020-01-07,Pakistan,Quetta,"Hizb-ul-Ahrar (HuA),Tehrik-i-Taliban Pakistan (TTP)",2,14,"Military,Private Citizens & Property"
+202001050019,2020-01-05,Pakistan,Salarzai,Unknown,0,0,Military
+202001050014,2020-01-05,Pakistan,Salarzai,Unknown,0,0,Unknown
+202001050007,2020-01-05,Pakistan,Chamkani,Unknown,1,0,Private Citizens & Property
+202001010011,2020-01-01,Pakistan,Ghaki,Unknown,0,0,Government (General)
+202001010010,2020-01-01,Pakistan,Mir Ali,Unknown,1,1,"Police,Military"
+201912280006,2019-12-28,Pakistan,Mamund,Unknown,0,0,Unknown
+201912260005,2019-12-26,Pakistan,Peshawar,Unknown,1,0,Private Citizens & Property
+201912250015,2019-12-25,Pakistan,Shawa,Unknown,1,0,Military
+201912250012,2019-12-25,Pakistan,Qutabkhel,Unknown,0,0,Military
+201912200011,2019-12-20,Pakistan,Akhorwal,Tehrik-i-Taliban Pakistan (TTP),0,0,Business
+201912190013,2019-12-19,Pakistan,Landi Kotal,Unknown,1,3,Military
+201912190006,2019-12-19,Pakistan,Ouch,Unknown,0,0,Private Citizens & Property
+201912190004,2019-12-19,Pakistan,Hathi Khan Killay,Unknown,1,1,Private Citizens & Property
+201912190003,2019-12-19,Pakistan,Dhadar,Unknown,0,0,Business
+201912180019,2019-12-18,Pakistan,Quetta,Unknown,0,0,Business
+201912180003,2019-12-18,Pakistan,Maidan,Tehrik-i-Taliban Pakistan (TTP),2,0,Police
+201912170019,2019-12-17,Pakistan,Islamabad,Unknown,0,0,Government (General)
+201912130011,2019-12-13,Pakistan,Tank,Tehrik-i-Taliban Pakistan (TTP),2,0,Police
+201912130010,2019-12-13,Pakistan,Garwaki,Tehrik-i-Taliban Pakistan (TTP),2,6,"Police,Private Citizens & Property"
+201912130005,2019-12-13,Pakistan,Mananwala,Unknown,0,1,Business
+201912110013,2019-12-11,Pakistan,Lakki Marwat district,Unknown,1,0,Private Citizens & Property
+201912110012,2019-12-11,Pakistan,Swat district,Unknown,1,1,Government (General)
+201912110008,2019-12-10,Pakistan,Zakir Khel,Unknown,1,1,Private Citizens & Property
+201912110004,2019-12-11,Pakistan,Zhob,Unknown,0,0,Business
+201912100005,2019-12-10,Pakistan,Swat district,Unknown,0,0,Unknown
+201912080010,2019-12-08,Pakistan,Panjgur,Unknown,0,0,Military
+201912070010,2019-12-07,Pakistan,Lahore,Unknown,1,6,Religious Figures/Institutions
+201912040020,2019-12-04,Pakistan,Peshawar,Unknown,0,0,Unknown
+201912030013,2019-12-03,Pakistan,Sanni,Unknown,1,1,Police
+201912030012,2019-12-03,Pakistan,Ashiq Marri,Unknown,0,1,Business
+201912030007,2019-12-03,Pakistan,Killi Abdul Rehman,Unknown,0,0,Transportation
+201912020027,2019-12-02,Pakistan,Jani Khel,Unknown,0,0,Unknown
+201912010001,2019-12-01,Pakistan,North Waziristan district,Unknown,3,2,Military
+201911300036,2019-11-30,Pakistan,Karachi,Unknown,0,1,Private Citizens & Property
+201911290009,2019-11-29,Pakistan,Salarzai,Unknown,0,0,Unknown
+201911290003,2019-11-29,Pakistan,Lahore,Unknown,0,10,Transportation
+201911270015,2019-11-27,Pakistan,Mansehra,Unknown,0,2,Government (General)
+201911270009,2019-11-25,Pakistan,Jalozai,Unknown,1,0,Violent Political Party
+201911250001,2019-11-25,Pakistan,Jandhola,Unknown,2,0,Private Citizens & Property
+201911240009,2019-11-24,Pakistan,Garyom,Unknown,0,3,Military
+201911230005,2019-11-23,Pakistan,Shandai Morr,Unknown,1,0,Private Citizens & Property
+201911200001,2019-11-20,Pakistan,Taji Killay,Unknown,1,0,Police
+201911180008,2019-11-18,Pakistan,Doaba,Unknown,1,0,Police
+201911150006,2019-11-15,Pakistan,Quetta,Unknown,2,5,Military
+201911140001,2019-11-14,Pakistan,Chamkani,Hizb-ul-Ahrar (HuA),1,3,Police
+201911120002,2019-11-12,Pakistan,Lehri,Unknown,1,0,Private Citizens & Property
+201911120001,2019-11-12,Pakistan,North Waziristan district,Unknown,3,1,Military
+201911110011,2019-11-11,Pakistan,Quetta,Unknown,0,9,Police
+201911090002,2019-11-09,Pakistan,Nawagai,Unknown,0,2,Private Citizens & Property
+201911050012,2019-11-05,Pakistan,Kulachi,Unknown,3,2,Military
+201911040007,2019-11-04,Pakistan,Mir Ali,Hizb-ul-Ahrar (HuA),2,1,Military
+201911040006,2019-11-04,Pakistan,Razmak,Hizb-ul-Ahrar (HuA),2,1,Military
+201911030012,2019-11-03,Pakistan,Landi Kotal,Tehrik-i-Taliban Pakistan (TTP),0,0,"Private Citizens & Property,Military"
+201911030008,2019-11-03,Pakistan,Landi Kotal,Tehrik-i-Taliban Pakistan (TTP),0,0,"Private Citizens & Property,Military"
+201911020015,2019-11-02,Pakistan,Balo Khan,Unknown,0,1,Police
+201910300023,2019-10-30,Pakistan,Jani Khel,Unknown,2,0,Private Citizens & Property
+201910300017,2019-10-30,Pakistan,Daraban,Unknown,3,0,Private Citizens & Property
+201910300013,2019-10-30,Pakistan,Shati Meena,Unknown,1,0,Private Citizens & Property
+201910300012,2019-10-30,Pakistan,Gujranwala,Unknown,1,0,Government (General)
+201910290017,2019-10-29,Pakistan,Jamal Mela,Unknown,0,3,Private Citizens & Property
+201910280012,2019-10-28,Pakistan,Badan,Khorasan Chapter of the Islamic State,1,0,Private Citizens & Property
+201910270008,2019-10-26,Pakistan,Dera Ismail Khan,Unknown,0,1,Police
+201910220021,2019-10-22,Pakistan,Amangarh,Unknown,0,1,Government (General)
+201910210013,2019-10-21,Pakistan,Quetta,Unknown,0,9,"Police,Private Citizens & Property"
+201910190007,2019-10-18,Pakistan,Loralai,Unknown,2,2,Military
+201910150039,2019-10-15,Pakistan,Shawal,Hizb-ul-Ahrar (HuA),2,0,Military
+201910150007,2019-10-15,Pakistan,Quetta,Unknown,1,10,Police
+201910140020,2019-10-14,Pakistan,Mir Ali,Unknown,0,0,Unknown
+201910140019,2019-10-14,Pakistan,Mir Ali,Unknown,1,1,Military
+201910100014,2019-10-10,Pakistan,Gohati,Unknown,0,0,Unknown
+201910020012,2019-10-02,Pakistan,Quetta,Unknown,0,1,Private Citizens & Property
+201910020011,2019-10-02,Pakistan,Parom,Unknown,0,0,Military
+201910010020,2019-10-01,Pakistan,Kohat district,Unknown,0,2,Private Citizens & Property
+201910010013,2019-10-01,Pakistan,Muslim Bagh,Unknown,1,0,Police
+201909300004,2019-09-30,Pakistan,Loralai,Unknown,3,3,Police
+201909290003,2019-09-29,Pakistan,Karachi,Unknown,0,0,Government (General)
+201909280089,2019-09-28,Pakistan,Hassu Khel,Unknown,0,0,Unknown
+201909280025,2019-09-28,Pakistan,Mulla Kili,Unknown,1,0,Terrorists/Non-state Militia
+201909280022,2019-09-28,Pakistan,Chaman,Unknown,3,17,"Government (General),Private Citizens & Property"
+201909250017,2019-09-25,Pakistan,Karachi,Unknown,1,0,Military
+201909250011,2019-09-25,Pakistan,Mianghundi,Unknown,0,4,Police
+201909240015,2019-09-24,Pakistan,Haji Lawang,Unknown,0,0,Private Citizens & Property
+201909240011,2019-09-24,Pakistan,Khaliqabad,Unknown,0,8,Business
+201909240010,2019-09-24,Pakistan,Spin Wam,Unknown,6,4,"Business,Military"
+201909240002,2019-09-24,Pakistan,Quetta,Unknown,0,0,Unknown
+201909210003,2019-09-21,Pakistan,Dera Ismail Khan,Unknown,0,0,Military
+201909200003,2019-09-20,Pakistan,Baizai,Unknown,2,1,Military
+201909190008,2019-09-19,Pakistan,Shreenaab,Khorasan Chapter of the Islamic State,1,0,Police
+201909190003,2019-09-19,Pakistan,Charmang,Unknown,0,0,Private Citizens & Property
+201909170011,2019-09-17,Pakistan,Abakhel,Unknown,0,0,Government (General)
+201909160002,2019-09-16,Pakistan,Tiarza,Tehrik-i-Taliban Pakistan (TTP) (suspected),0,0,NGO
+201909140017,2019-09-14,Pakistan,Goth Mazari,Unknown,0,0,Utilities
+201909140009,2019-09-14,Pakistan,Dir,Unknown,3,1,Military
+201909130011,2019-09-13,Pakistan,Abakhel,Unknown,3,0,Military
+201909110025,2019-09-11,Pakistan,Wana,Tehrik-i-Taliban Pakistan (TTP) (suspected),0,0,Business
+201909050012,2019-09-05,Pakistan,Peshawar,Unknown,1,0,Private Citizens & Property
+201909050011,2019-09-05,Pakistan,Taki Killi,Unknown,1,0,Religious Figures/Institutions
+201909050009,2019-09-05,Pakistan,Quetta,Unknown,0,5,"Transportation,Police,Journalists & Media"
+201909050008,2019-09-05,Pakistan,Quetta,Unknown,1,5,Transportation
+201909040007,2019-09-04,Pakistan,Lajbak Bairi,Unknown,1,3,Police
+201909030013,2019-09-03,Pakistan,Dabar,Khorasan Chapter of the Islamic State,1,0,Religious Figures/Institutions
+201909020008,2019-09-02,Pakistan,Idak,Unknown,0,2,Military
+201909010004,2019-09-01,Pakistan,Hashim Charming,Unknown,1,0,Private Citizens & Property
+201908310015,2019-08-31,Pakistan,Spin Wam,Unknown,0,0,Unknown
+201908310010,2019-08-31,Pakistan,Sararogha,Unknown,0,2,Private Citizens & Property
+201908310008,2019-08-31,Pakistan,Mohammadkhel,Unknown,0,1,Private Citizens & Property
+201908300017,2019-08-30,Pakistan,Karachi,Unknown,1,0,Private Citizens & Property
+201908300007,2019-08-30,Pakistan,Karachi,Unknown,0,0,Unknown
+201908270011,2019-08-26,Pakistan,Sohbatpur,Unknown,1,5,"Police,Private Citizens & Property"
+201908250008,2019-08-24,Pakistan,Safi,Unknown,0,3,Private Citizens & Property
+201908240004,2019-08-24,Pakistan,Daraban,Tehrik-i-Taliban Pakistan (TTP),2,2,"Police,Private Citizens & Property"
+201908240003,2019-08-24,Pakistan,Spin Wam,Unknown,1,5,Military
+201908220004,2019-08-22,Pakistan,Miran Shah,Unknown,0,1,Private Citizens & Property
+201908210001,2019-08-21,Pakistan,Islamabad,Hizb-ul-Ahrar (HuA),2,1,Police
+201908200032,2019-08-20,Pakistan,Nowshera,Unknown,1,0,Government (General)
+201908200008,2019-08-20,Pakistan,Dangin,Unknown,0,2,Military
+201908200007,2019-08-20,Pakistan,Birmal,Unknown,4,6,Private Citizens & Property
+201908190025,2019-08-19,Pakistan,Peshawar,Unknown,0,0,Government (General)
+201908180005,2019-08-18,Pakistan,Sheringal,Tehrik-i-Taliban Pakistan (TTP),4,6,Private Citizens & Property
+201908170012,2019-08-17,Pakistan,Zehri,Unknown,5,0,Private Citizens & Property
+201908170003,2019-08-17,Pakistan,Ladha,Unknown,2,3,Military
+201908170002,2019-08-17,Pakistan,Kuchlak,Tehrik-i-Taliban Pakistan (TTP),1,0,Religious Figures/Institutions
+201908160001,2019-08-16,Pakistan,Kuchlak,High Council of the Islamic Emirate,4,15,"Religious Figures/Institutions,Terrorists/Non-state Militia,Private Citizens & Property"
+201908130007,2019-08-13,Pakistan,Miran Shah,Unknown,0,3,Military
+201908090002,2019-08-09,Pakistan,Peshawar,Unknown,1,1,Police
+201908080018,2019-08-08,Pakistan,Mir Ali,Unknown,0,1,Private Citizens & Property
+201908070008,2019-08-07,Pakistan,Datta Khel,Unknown,0,1,Private Citizens & Property
+201908070006,2019-08-07,Pakistan,Azakhel Payan,Unknown,0,10,"Police,Private Citizens & Property"
+201908060008,2019-08-06,Pakistan,Pishin,Unknown,1,0,Police
+201908060005,2019-08-06,Pakistan,Quetta,Khorasan Chapter of the Islamic State,1,13,Business
+201908050003,2019-08-05,Pakistan,Niag,"Khorasan Chapter of the Islamic State,Tehrik-i-Taliban Pakistan (TTP)",2,4,Military
+201908030016,2019-08-03,Pakistan,Datta Khel,Unknown,1,1,Military
+201908030005,2019-08-03,Pakistan,Machh,Unknown,0,0,Unknown
+201908030003,2019-08-03,Pakistan,Razmak,Unknown,3,1,Military
+201908020027,2019-08-02,Pakistan,Akakhel,Unknown,1,0,Private Citizens & Property
+201908020011,2019-08-02,Pakistan,Pishin,Unknown,2,1,Military
+201907310023,2019-07-30,Pakistan,Quetta,Tehrik-i-Taliban Pakistan (TTP),5,34,"Police,Private Citizens & Property"
+201907310005,2019-07-31,Pakistan,Razmak,Unknown,0,4,Private Citizens & Property
+201907300032,2019-07-30,Pakistan,Azbaka Manglawar,Unknown,1,1,Terrorists/Non-state Militia
+201907300002,2019-07-30,Pakistan,Peshawar,Unknown,0,0,Business
+201907270002,2019-07-27,Pakistan,Gurbaz,Tehrik-i-Taliban Pakistan (TTP),6,0,Military
+201907260009,2019-07-26,Pakistan,Khyber district,Unknown,0,1,Military
+201907230005,2019-07-23,Pakistan,Quetta,Khorasan Chapter of the Islamic State,3,18,Business
+201907210020,2019-07-21,Pakistan,Wargha Tangi,Unknown,0,0,Unknown
+201907210003,2019-07-21,Pakistan,Dera Ismail Khan,Tehrik-i-Taliban Pakistan (TTP),8,30,"Business,Police"
+201907210002,2019-07-21,Pakistan,Kotla Syedan,Tehrik-i-Taliban Pakistan (TTP),2,0,Police
+201907200017,2019-07-20,Pakistan,Sararogha,Unknown,0,2,Military
+201907200016,2019-07-20,Pakistan,Shinkai,Unknown,0,1,Private Citizens & Property
+201907200015,2019-07-20,Pakistan,North Waziristan district,Unknown,0,6,"Military,Private Citizens & Property"
+201907180011,2019-07-18,Pakistan,Wana,Unknown,0,0,Private Citizens & Property
+201907150012,2019-07-15,Pakistan,Shabqadar,Unknown,0,0,Unknown
+201907100019,2019-07-10,Pakistan,Gulshan Adda,Unknown,0,2,Military
+201907100007,2019-07-10,Pakistan,Miran Shah,Unknown,0,0,Military
+201907100006,2019-07-10,Pakistan,Nawe Kili,Unknown,1,3,Military
+201907090027,2019-07-09,Pakistan,Lahore,Unknown,0,1,Violent Political Party
+201907090022,2019-07-09,Pakistan,Karak district,Unknown,0,0,Unknown
+201907090021,2019-07-09,Pakistan,Karachi,Unknown,1,0,Journalists & Media
+201907090020,2019-07-09,Pakistan,Karachi,Unknown,2,1,Business
+201907070009,2019-07-07,Pakistan,Hangu district,Unknown,0,0,Journalists & Media
+201907050009,2019-07-05,Pakistan,Dashtak,Unknown,0,1,Business
+201907040009,2019-07-04,Pakistan,Rojhan,Baloch Republican Army (BRA),0,0,Transportation
+201907030021,2019-07-03,Pakistan,Turbat,Unknown,0,8,"Police,Private Citizens & Property"
+201907030002,2019-07-03,Pakistan,Barnala,Jaish-e-Mohammad (JeM) (suspected),5,1,Military
+201907010032,2019-07-01,Pakistan,Peshawar,Unknown,0,3,"Government (General),Private Citizens & Property"
+201906290020,2019-06-29,Pakistan,Peshawar,Unknown,1,0,Private Citizens & Property
+201906260030,2019-06-26,Pakistan,Machh,Unknown,0,0,Transportation
+201906260005,2019-06-26,Pakistan,Loralai district,Tehrik-i-Taliban Pakistan (TTP),4,2,"Police,Military"
+201906250059,2019-06-25,Pakistan,Patikhel,Unknown,1,3,Private Citizens & Property
+201906250039,2019-06-25,Pakistan,Rakhni,Unknown,0,1,Private Citizens & Property
+201906250036,2019-06-25,Pakistan,Qamar Maila,Hizb-ul-Ahrar (HuA),2,4,Police
+201906230014,2019-06-23,Pakistan,Cantonment,Unknown,1,1,Police
+201906210027,2019-06-21,Pakistan,Mama Ziarat,Unknown,0,0,Private Citizens & Property
+201906210016,2019-06-21,Pakistan,Manzerkhel,Unknown,0,1,Private Citizens & Property
+201906210015,2019-06-21,Pakistan,Pir Koh,Unknown,0,8,Business
+201906210006,2019-06-21,Pakistan,Gorbez,Unknown,1,1,Business
+201906210005,2019-06-21,Pakistan,Mir Ali,Hizb-ul-Ahrar (HuA),0,3,Military
+201906190009,2019-06-19,Pakistan,Chitkarn Kabari,Unknown,0,2,"Military,Private Citizens & Property"
+201906180002,2019-06-17,Pakistan,Karachi,Hizb-ul-Ahrar (HuA),2,0,Police
+201906170034,2019-06-17,Pakistan,Sagi,"Hizb-ul-Ahrar (HuA),Tehrik-i-Taliban Pakistan (TTP)",1,2,Private Citizens & Property
+201906160011,2019-06-16,Pakistan,Islamabad,Unknown,1,1,Journalists & Media
+201906140013,2019-06-14,Pakistan,Sararogha,Tehrik-i-Taliban Pakistan (TTP),1,0,Police
+201906140012,2019-06-14,Pakistan,Shah Zawal,Tehrik-i-Taliban Pakistan (TTP),1,4,Terrorists/Non-state Militia
+201906130026,2019-06-13,Pakistan,Larkana district,Unknown,2,0,Police
+201906120016,2019-06-12,Pakistan,Shahbaz,Unknown,2,1,Police
+201906110020,2019-06-11,Pakistan,Sango,Unknown,0,3,Private Citizens & Property
+201906110006,2019-06-11,Pakistan,Manzerkhel Berzai,Unknown,0,2,Military
+201906080021,2019-06-08,Pakistan,Upper Dir district,Unknown,0,0,Government (General)
+201906080004,2019-06-07,Pakistan,Garium,Hizb-ul-Ahrar (HuA),1,0,Military
+201906080003,2019-06-08,Pakistan,Boya,Unknown,2,3,Military
+201906080001,2019-06-07,Pakistan,Ziarat,Unknown,3,4,Private Citizens & Property
+201906070024,2019-06-07,Pakistan,Karachi,Unknown,1,0,Government (General)
+201906070004,2019-06-07,Pakistan,Kawas,Unknown,2,8,Private Citizens & Property
+201906070003,2019-06-07,Pakistan,Kharkamar,Tehrik-i-Taliban Pakistan (TTP),4,4,Military
+201906060019,2019-06-06,Pakistan,Maminzo,Unknown,1,2,Private Citizens & Property
+201906060007,2019-06-06,Pakistan,Khost,Unknown,2,0,Military
+201906050033,2019-06-05,Pakistan,Kandh Kot,Baloch Republican Army (BRA),1,2,Transportation
+201906030025,2019-06-03,Pakistan,Niag,Unknown,1,0,Police
+201906020044,2019-06-02,Pakistan,Sariab,Khorasan Chapter of the Islamic State,1,0,Police
+201906010056,2019-06-01,Pakistan,Bannu district,Unknown,1,0,Police
+201906010047,2019-06-01,Pakistan,Quetta,Khorasan Chapter of the Islamic State,1,2,Police
+201905310034,2019-05-31,Pakistan,Kalar,Unknown,0,0,Religious Figures/Institutions
+201905310026,2019-06-01,Pakistan,Boya,Hizb-ul-Ahrar (HuA),1,0,Military
+201905310012,2019-05-30,Pakistan,Quetta,Unknown,1,1,Religious Figures/Institutions
+201905280023,2019-05-28,Pakistan,Kotaki,Unknown,0,0,Unknown
+201905270038,2019-05-27,Pakistan,Makki Garh,Hizb-ul-Ahrar (HuA),1,5,Military
+201905260026,2019-05-26,Pakistan,Quetta,Unknown,2,0,Police
+201905250010,2019-05-25,Pakistan,Mastung,Unknown,1,0,Religious Figures/Institutions
+201905240023,2019-05-24,Pakistan,Shelabagh,Tehrik-i-Taliban Pakistan (TTP),0,3,Military
+201905240002,2019-05-24,Pakistan,Quetta,Unknown,4,23,Religious Figures/Institutions
+201905230023,2019-05-23,Pakistan,Mir Ali,Hizb-ul-Ahrar (HuA),0,1,Military
+201905180045,2019-05-18,Pakistan,Karachi,Unknown,0,1,Business
+201905170023,2019-05-17,Pakistan,Karachi,Unknown,1,2,Police
+201905170022,2019-05-17,Pakistan,Sarwakai,Unknown,0,1,Private Citizens & Property
+201905170021,2019-05-17,Pakistan,Degan,Unknown,1,0,Private Citizens & Property
+201905170020,2019-05-17,Pakistan,Datta Khel,Unknown,1,0,Private Citizens & Property
+201905170019,2019-05-17,Pakistan,Miran Shah,Unknown,1,0,Police
+201905150026,2019-05-15,Pakistan,Datta Khel,Unknown,0,3,Military
+201905140032,2019-05-13,Pakistan,Mastung,Khorasan Chapter of the Islamic State,1,0,Police
+201905140001,2019-05-14,Pakistan,Dera Murad Jamali,Unknown,3,1,Private Citizens & Property
+201905130001,2019-05-13,Pakistan,Quetta,Tehrik-i-Taliban Pakistan (TTP),5,11,"Police,Religious Figures/Institutions"
+201905110023,2019-05-11,Pakistan,Huramzai,Tehrik-i-Taliban Pakistan (TTP),0,2,Military
+201905110004,2019-05-11,Pakistan,Gwadar,Baloch Liberation Army (BLA),8,6,"Business,Military"
+201905090031,2019-05-09,Pakistan,Gojra,Unknown,0,1,Police
+201905090011,2019-05-09,Pakistan,Khost,Baloch Liberation Army (BLA),3,1,Military
+201905090010,2019-05-09,Pakistan,Khost,Baloch Liberation Army (BLA),2,0,Business
+201905090003,2019-05-08,Pakistan,Spin Ghundai,Unknown,3,0,Private Citizens & Property
+201905080024,2019-05-08,Pakistan,Tangi,Unknown,1,2,Police
+201905080001,2019-05-08,Pakistan,Lahore,"Hizb-ul-Ahrar (HuA),Khorasan Chapter of the Islamic State (suspected),Tehrik-i-Taliban Pakistan (TTP)",13,25,"Police,Religious Figures/Institutions"
+201905060013,2019-05-06,Pakistan,Razmak,"Hizb-ul-Ahrar (HuA),Tehrik-i-Taliban Pakistan (TTP)",3,5,Military
+201905060012,2019-05-06,Pakistan,Datta Khel,Tehrik-i-Taliban Pakistan (TTP),1,3,Military
+201905050011,2019-05-05,Pakistan,Umary,Unknown,1,0,Government (Diplomatic)
+201905030028,2019-05-03,Pakistan,Lajjay,Unknown,6,1,Telecommunication
+201905010004,2019-05-01,Pakistan,Alwara,"Hizb-ul-Ahrar (HuA),Tehrik-i-Taliban Pakistan (TTP)",3,7,Military
+201904300009,2019-04-30,Pakistan,Landa Adda,Unknown,1,0,Journalists & Media
+201904300007,2019-04-30,Pakistan,Ambar,Hizb-ul-Ahrar (HuA),1,0,Private Citizens & Property
+201904290012,2019-04-29,Pakistan,Datta Khel,Hizb-ul-Ahrar (HuA),1,0,Military
+201904270002,2019-04-27,Pakistan,South Waziristan district,Unknown,0,2,Private Citizens & Property
+201904270001,2019-04-27,Pakistan,Raghzai,Unknown,3,1,Police
+201904260026,2019-04-26,Pakistan,Nakhtar,Tehrik-i-Taliban Pakistan (TTP),0,0,Police
+201904260001,2019-04-26,Pakistan,Razmak,Hizb-ul-Ahrar (HuA),1,3,Military
+201904250024,2019-04-25,Pakistan,Kot Murtaza,Tehrik-i-Taliban Pakistan (TTP),0,0,Government (General)
+201904250018,2019-04-25,Pakistan,Nasirabad district,Unknown,1,0,"Military,Transportation"
+201904250004,2019-04-25,Pakistan,Sultanzai,Unknown,1,1,Private Citizens & Property
+201904240002,2019-04-24,Pakistan,Ghalo Tangai,Unknown,1,0,"Police,Private Citizens & Property"
+201904230019,2019-04-23,Pakistan,Mir Hassan,Unknown,0,0,Government (Diplomatic)
+201904230018,2019-04-23,Pakistan,Dera Allah Yar,Unknown,0,12,Private Citizens & Property
+201904230002,2019-04-23,Pakistan,Bannu,Hizb-ul-Ahrar (HuA),1,0,"Police,Private Citizens & Property"
+201904220017,2019-04-22,Pakistan,Torkhel,Hizb-ul-Ahrar (HuA),1,2,Military
+201904220002,2019-04-22,Pakistan,Dera Murad Jamali,Unknown,0,10,"Police,Private Citizens & Property"
+201904210028,2019-04-21,Pakistan,Burewala,Unknown,0,2,Police
+201904210009,2019-04-21,Pakistan,Shawal,Unknown,1,1,Military
+201904200001,2019-04-20,Pakistan,Datta Khel,Unknown,0,2,Military
+201904180001,2019-04-18,Pakistan,Buzi Top,Baloch Raji Ajoi Sangar (BRAS),14,2,"Transportation,Military"
+201904140037,2019-04-14,Pakistan,Takht Nasrati,Unknown,1,7,Private Citizens & Property
+201904140032,2019-04-14,Pakistan,Jungshahi,Unknown,0,0,Transportation
+201904120029,2019-04-12,Pakistan,Mir Ali,Unknown,0,2,Military
+201904120024,2019-04-12,Pakistan,Chaman,Tehrik-i-Taliban Pakistan (TTP),1,10,"Private Citizens & Property,Military"
+201904120022,2019-04-11,Pakistan,Spin Wam,Hizb-ul-Ahrar (HuA),2,2,Business
+201904120002,2019-04-12,Pakistan,Hazar Ganji,"Khorasan Chapter of the Islamic State,Lashkar-e-Jhangvi,Tehrik-i-Taliban Pakistan (TTP) (suspected)",21,48,"Private Citizens & Property,Military"
+201904100040,2019-04-10,Pakistan,Datta Khel,Unknown,0,2,Private Citizens & Property
+201904100029,2019-04-10,Pakistan,Giddar,Unknown,1,0,Police
+201904080002,2019-04-08,Pakistan,Haleemzai,Unknown,1,0,Government (Diplomatic)
+201904050022,2019-04-05,Pakistan,Kotri,Sindhudesh Revolutionary Army (SRA),0,0,Private Citizens & Property
+201904010018,2019-04-01,Pakistan,Karachi,Unknown,0,1,Government (General)
+201904010013,2019-04-01,Pakistan,Peshawar,Unknown,0,1,Private Citizens & Property
+201903310001,2019-03-31,Pakistan,Quetta,Unknown,2,2,Religious Figures/Institutions
+201903300017,2019-03-30,Pakistan,Karachi,Unknown,0,0,Journalists & Media
+201903290020,2019-03-29,Pakistan,Karachi,Baloch Liberation Army (BLA),0,0,Business
+201903280030,2019-03-28,Pakistan,Dosali,Unknown,1,1,Private Citizens & Property
+201903270021,2019-03-28,Pakistan,Boya,Unknown,1,1,Religious Figures/Institutions
+201903270016,2019-03-27,Pakistan,Bitani,Unknown,2,4,"Government (General),Police"
+201903260028,2019-03-26,Pakistan,Tribeni,Tehrik-i-Taliban Pakistan (TTP),0,0,"Government (General),Police"
+201903260014,2019-03-26,Pakistan,Quetta,Unknown,1,0,Educational Institution
+201903250022,2019-03-25,Pakistan,Jhang Khel,Unknown,1,0,Military
+201903240015,2019-03-24,Pakistan,Ahmad Khel,Unknown,0,2,Private Citizens & Property
+201903230019,2019-03-23,Pakistan,Dera Bugti district,Baloch Republican Army (BRA),0,0,Utilities
+201903230018,2019-03-23,Pakistan,Quetta,Unknown,0,0,Unknown
+201903220026,2019-03-22,Pakistan,Unknown,Baloch Nationalists,3,0,Private Citizens & Property
+201903220008,2019-03-22,Pakistan,Karachi,Unknown,3,1,Religious Figures/Institutions
+201903210018,2019-03-21,Pakistan,North Waziristan district,Unknown,0,1,Private Citizens & Property
+201903200018,2019-03-20,Pakistan,Bahawalpur,Muslim extremists,1,0,Educational Institution
+201903190008,2019-03-19,Pakistan,Lal Khattai,Tehrik-i-Taliban Pakistan (TTP),6,0,Police
+201903180024,2019-03-18,Pakistan,Faisalabad,Unknown,0,2,Journalists & Media
+201903180003,2019-03-18,Pakistan,Paroa,Tehrik-i-Taliban Pakistan (TTP),0,3,"Police,Private Citizens & Property"
+201903170024,2019-03-17,Pakistan,Hangu,Unknown,0,0,Military
+201903170006,2019-03-17,Pakistan,Nasirabad district,Baloch Liberation Tigers (BLT),4,31,Transportation
+201903150012,2019-03-15,Pakistan,Dalbandin,Unknown,0,1,Police
+201903150011,2019-03-15,Pakistan,Dera Murad Jamali,Unknown,0,0,Transportation
+201903140007,2019-03-14,Pakistan,Panjgur district,Unknown,2,7,Private Citizens & Property
+201903130029,2019-03-13,Pakistan,Kashmore district,Baloch Republican Army (BRA),0,0,Transportation
+201903130027,2019-03-13,Pakistan,Dera Ismail Khan,Unknown,2,2,Government (General)
+201903110014,2019-03-11,Pakistan,Quetta,Unknown,0,4,Police
+201903090021,2019-03-09,Pakistan,Peshawar,Unknown,0,0,Violent Political Party
+201903080002,2019-03-08,Pakistan,Dera Bugti,Baloch Liberation Tigers (BLT),4,2,Utilities
+201903050001,2019-03-05,Pakistan,Dera Bugti,Baloch Republican Army (BRA),0,0,Utilities
+201903040021,2019-03-04,Pakistan,Karachi,Unknown,1,0,Police
+201903040020,2019-03-04,Pakistan,Loi Shalman,Hizb-ul-Ahrar (HuA),0,0,Military
+201903040007,2019-03-04,Pakistan,Dera Murad Jamali,Unknown,0,0,Transportation
+201903040006,2019-03-04,Pakistan,Chaman,Hizb-ul-Ahrar (HuA),0,3,"Private Citizens & Property,Transportation"
+201903030029,2019-03-03,Pakistan,Angoor Ada,Unknown,0,0,Military
+201902280014,2019-02-28,Pakistan,Hayatabad,Tehrik-i-Taliban Pakistan (TTP),0,2,Government (General)
+201902280006,2019-02-28,Pakistan,Karak district,Unknown,1,0,Educational Institution
+201902250020,2019-02-25,Pakistan,Peshawar district,Unknown,0,0,Unknown
+201902250016,2019-02-25,Pakistan,Dera Ismail Khan,Unknown,2,0,Government (General)
+201902240002,2019-02-24,Pakistan,Kulachi,Unknown,0,0,Unknown
+201902240001,2019-02-24,Pakistan,Dera Murad Jamali,Unknown,1,9,Business
+201902230020,2019-02-23,Pakistan,Sadiqabad,Unknown,0,0,Unknown
+201902230010,2019-02-23,Pakistan,Mir Ali,Hizb-ul-Ahrar (HuA),0,3,Military
+201902210024,2019-02-21,Pakistan,Sadiqabad,Hizb-ul-Ahrar (HuA),3,3,Police
+201902210022,2019-02-21,Pakistan,Bhatt,Unknown,0,0,Educational Institution
+201902180033,2019-02-18,Pakistan,Karachi,Unknown,1,0,Government (General)
+201902170016,2019-02-17,Pakistan,Quetta district,Baloch Raji Ajoi Sangar (BRAS),10,11,Military
+201902170002,2019-02-17,Pakistan,Goran,Baloch Raji Ajoi Sangar (BRAS),4,0,Military
+201902160031,2019-02-16,Pakistan,Landi Kotal,Hizb-ul-Ahrar (HuA),0,0,Private Citizens & Property
+201902160007,2019-02-16,Pakistan,Loralai,Tehrik-i-Taliban Pakistan (TTP),2,1,"Military,Private Citizens & Property"
+201902130017,2019-02-13,Pakistan,Mir Ali,Unknown,1,0,Private Citizens & Property
+201902130001,2019-02-13,Pakistan,Sheikh Wasil,Hizb-ul-Ahrar (HuA),1,4,Military
+201902120029,2019-02-12,Pakistan,Tang Gala,Unknown,0,1,Private Citizens & Property
+201902120015,2019-02-12,Pakistan,Dera Ismail Khan,Unknown,0,0,Unknown
+201902120001,2019-02-12,Pakistan,Paroa,Hizb-ul-Ahrar (HuA),5,2,Police
+201902110022,2019-02-11,Pakistan,Karachi,Unknown,1,1,"Government (General),Violent Political Party"
+201902100024,2019-02-10,Pakistan,Nowshera district,Unknown,0,1,"Private Citizens & Property,Private Citizens & Property"
+201902100021,2019-02-10,Pakistan,Karachi,Unknown,0,0,Private Citizens & Property
+201902100001,2019-02-09,Pakistan,Dera Bugti district,Unknown,0,1,Private Citizens & Property
+201902090007,2019-02-08,Pakistan,Mir Ali,Unknown,0,3,Military
+201902080019,2019-02-08,Pakistan,Loralai district,Unknown,0,0,"Government (General),Police"
+201902070025,2019-02-07,Pakistan,Hyderabad,Unknown,0,0,Religious Figures/Institutions
+201902040042,2019-02-04,Pakistan,Karachi,Unknown,1,0,Religious Figures/Institutions
+201902040017,2019-02-04,Pakistan,Kumb,Unknown,0,0,Religious Figures/Institutions
+201902010029,2019-02-01,Pakistan,Chaman,Unknown,0,3,Military
+201902010021,2019-01-29,Pakistan,Karachi,Sindhu Desh Liberation Army (SDLA),0,0,Transportation
+201902010012,2019-02-01,Pakistan,Rashakai,Unknown,1,0,Military
+201901310042,2019-01-31,Pakistan,Landi Kotal,Unknown,0,0,Private Citizens & Property
+201901300014,2019-01-30,Pakistan,Marsi Khel,Unknown,0,2,Private Citizens & Property
+201901290035,2019-01-29,Pakistan,Jatta Ismail Khel,Unknown,1,1,Private Citizens & Property
+201901290026,2019-01-29,Pakistan,Dera Ismail Khan,Unknown,1,0,Police
+201901290017,2019-01-29,Pakistan,Sui,Unknown,0,0,Business
+201901290015,2019-01-29,Pakistan,Loralai,Tehrik-i-Taliban Pakistan (TTP),12,21,"Police,Private Citizens & Property"
+201901250007,2019-01-25,Pakistan,Mir Ali,Tehrik-i-Taliban Pakistan (TTP),0,2,"Private Citizens & Property,Military"
+201901240018,2019-01-24,Pakistan,Turbat,Unknown,0,9,"Military,Private Citizens & Property"
+201901240005,2019-01-24,Pakistan,Ghulam Khan,Unknown,0,2,Private Citizens & Property
+201901230013,2019-01-22,Pakistan,Nawagai,Unknown,0,0,Private Citizens & Property
+201901230006,2019-01-23,Pakistan,Gurbaz Bayankhel,Unknown,1,1,Unknown
+201901220018,2019-01-22,Pakistan,Karachi,Unknown,1,0,Religious Figures/Institutions
+201901210013,2019-01-21,Pakistan,Gedar,Baloch Liberation Army (BLA),0,0,Military
+201901190021,2019-01-19,Pakistan,Arandu,Hizb-ul-Ahrar (HuA),1,0,Police
+201901190014,2019-01-19,Pakistan,Hayatabad,Unknown,1,0,Private Citizens & Property
+201901180031,2019-01-18,Pakistan,Karachi,Unknown,0,2,Educational Institution
+201901120012,2019-01-12,Pakistan,Muhajir Adda,Unknown,1,4,Private Citizens & Property
+201901110020,2019-01-11,Pakistan,Loralai,Tehrik-i-Taliban Pakistan (TTP),0,2,Military
+201901100016,2019-01-10,Pakistan,Zarkani,Unknown,0,0,Police
+201901100011,2019-01-10,Pakistan,Kulachi,Tehrik-i-Taliban Pakistan (TTP),0,2,Police
+201901090023,2019-01-09,Pakistan,Rahimabad,Unknown,0,0,Utilities
+201901080021,2019-01-08,Pakistan,Balgatar,Unknown,0,4,Military
+201901080017,2019-01-08,Pakistan,Kohat,Unknown,1,0,Government (General)
+201901080015,2019-01-08,Pakistan,Karachi,Unknown,0,0,Government (General)
+201901080013,2019-01-08,Pakistan,Ambar,Hizb-ul-Ahrar (HuA),0,0,"Private Citizens & Property,Private Citizens & Property"
+201901060022,2019-01-06,Pakistan,Gresha,Unknown,1,0,Private Citizens & Property
+201901060021,2019-01-06,Pakistan,Loi Shalman,Tehrik-i-Taliban Pakistan (TTP),0,0,Military
+201901060002,2019-01-06,Pakistan,Panjgur district,United Baloch Army (UBA),0,2,"Military,Private Citizens & Property"
+201901060001,2019-01-06,Pakistan,Pishin,Unknown,0,9,"Police,Private Citizens & Property"
+201901050003,2019-01-05,Pakistan,Peshawar,Unknown,0,6,Private Citizens & Property
+201901040022,2019-01-04,Pakistan,Hangu,Unknown,0,0,Unknown
+201901030031,2019-01-03,Pakistan,Karachi,Unknown,1,0,Private Citizens & Property
+201901030024,2019-01-03,Pakistan,Havaid,Unknown,0,0,Unknown
+201901020019,2019-01-02,Pakistan,Khyber district,Unknown,0,0,Private Citizens & Property
+201901020015,2019-01-02,Pakistan,Dera Ghazi Khan,Unknown,1,0,Violent Political Party
+201901010013,2019-01-01,Pakistan,Loralai,Tehrik-i-Taliban Pakistan (TTP),8,2,Military
+201812310025,2018-12-31,Pakistan,Khar Tangi,Khorasan Chapter of the Islamic State,3,0,Unknown
+201812310022,2018-12-31,Pakistan,Karachi,Unknown,1,0,Business
+201812280024,2018-12-28,Pakistan,Abbottabad,Unknown,1,0,Violent Political Party
+201812260021,2018-12-26,Pakistan,Jarobi Darra,Hizb-ul-Ahrar (HuA),2,3,Police
+201812260020,2018-12-26,Pakistan,Karachi,Unknown,1,1,Police
+201812260005,2018-12-26,Pakistan,Pishin district,Unknown,0,0,Government (Diplomatic)
+201812260004,2018-12-26,Pakistan,Quetta,Unknown,0,1,Private Citizens & Property
+201812250030,2018-12-25,Pakistan,Karachi,Unknown,1,0,Violent Political Party
+201812230035,2018-12-23,Pakistan,Karachi,Muttahida Qami Movement (MQM),2,2,Violent Political Party
+201812210021,2018-12-21,Pakistan,Dera Bugti district,Unknown,1,1,Private Citizens & Property
+201812200021,2018-12-20,Pakistan,Muhammad Khel,Unknown,0,2,Military
+201812190021,2018-12-19,Pakistan,Boghara,Unknown,0,3,Private Citizens & Property
+201812160006,2018-12-16,Pakistan,Sibi district,Unknown,1,0,Military
+201812140009,2018-12-14,Pakistan,Wakai,"Baloch Liberation Army (BLA),Baloch Liberation Front (BLF),Baloch Republican Guards (BRG)",10,14,Military
+201812080032,2018-12-08,Pakistan,Karachi,Unknown,1,0,Violent Political Party
+201812080026,2018-12-08,Pakistan,Karachi,Unknown,0,6,Violent Political Party
+201812080021,2018-12-08,Pakistan,Rawalpindi,Unknown,2,2,"Military,Private Citizens & Property"
+201812060026,2018-12-05,Pakistan,Chagai district,Unknown,0,0,NGO
+201812060024,2018-12-06,Pakistan,Dera Ghazi Khan district,Unknown,1,0,Military
+201812060018,2018-12-06,Pakistan,Dera Ghazi Khan district,Unknown,1,3,Military
+201812050002,2018-12-05,Pakistan,Kohlu district,Unknown,1,2,Military
+201812030019,2018-12-03,Pakistan,Sarband,Unknown,1,1,Journalists & Media
+201812030015,2018-12-03,Pakistan,Karachi,Unknown,0,0,Military
+201812020014,2018-12-02,Pakistan,Rukanpur,Unknown,0,0,Utilities
+201812020012,2018-12-02,Pakistan,Mazari Garhi,Unknown,0,2,Private Citizens & Property
+201811290029,2018-11-29,Pakistan,Badaber,Unknown,1,0,Private Citizens & Property
+201811290017,2018-11-29,Pakistan,Khar,Unknown,2,0,Private Citizens & Property
+201811290014,2018-11-29,Pakistan,Gurbaz,Unknown,0,2,Military
+201811280004,2018-11-28,Pakistan,Dera Bugti district,Unknown,0,0,Unknown
+201811270017,2018-11-27,Pakistan,Boya,Unknown,0,0,Military
+201811270016,2018-11-27,Pakistan,Kajori,Unknown,0,0,Military
+201811230029,2018-11-23,Pakistan,Mansehra,Unknown,0,1,Private Citizens & Property
+201811230017,2018-11-23,Pakistan,Kalaya,"Khorasan Chapter of the Islamic State,Tehrik-i-Taliban Pakistan (TTP)",34,50,Private Citizens & Property
+201811230003,2018-11-23,Pakistan,Karachi,Baloch Liberation Army (BLA),7,1,"Government (Diplomatic),Police,Private Citizens & Property"
+201811220026,2018-11-22,Pakistan,Wana,Unknown,2,11,Terrorists/Non-state Militia
+201811220025,2018-11-22,Pakistan,Norak,Hizb-ul-Ahrar (HuA),0,0,Military
+201811220024,2018-11-22,Pakistan,Angoor Ada,Unknown,2,12,Business
+201811210010,2018-11-21,Pakistan,Chaman,Unknown,0,13,Religious Figures/Institutions
+201811210009,2018-11-21,Pakistan,Charmang,Tehrik-i-Taliban Pakistan (TTP),2,0,Private Citizens & Property
+201811190040,2018-11-19,Pakistan,Thana Chatola,Unknown,1,0,Violent Political Party
+201811180020,2018-11-18,Pakistan,Wana,Tehrik-i-Taliban Pakistan (TTP),1,2,Military
+201811180019,2018-11-18,Pakistan,Mar Gat,Baloch Liberation Army (BLA),3,4,Military
+201811170019,2018-11-17,Pakistan,Gurbaz,Tehrik-i-Taliban Pakistan (TTP),2,2,Military
+201811170015,2018-11-17,Pakistan,Quetta,Tehrik-i-Taliban Pakistan (TTP),1,0,Police
+201811160012,2018-11-16,Pakistan,Karachi,Jeay Sindh Muttahida Mahaz (JSMM),2,8,Private Citizens & Property
+201811160005,2018-11-16,Pakistan,Hasham Charmang,Tehrik-i-Taliban Pakistan (TTP),0,1,Private Citizens & Property
+201811130022,2018-11-13,Pakistan,Ghakhi,Tehrik-i-Taliban Pakistan (TTP),1,0,Military
+201811120025,2018-11-12,Pakistan,Guryaum,Hizb-ul-Ahrar (HuA),0,4,Military
+201811090011,2018-11-09,Pakistan,Idak,Unknown,1,3,Private Citizens & Property
+201811090010,2018-11-09,Pakistan,Quetta,Khorasan Chapter of the Islamic State,1,1,Private Citizens & Property
+201811070007,2018-11-07,Pakistan,Rogha Badar,Hizb-ul-Ahrar (HuA),0,3,Military
+201811070006,2018-11-07,Pakistan,Mohmand Gat,Hizb-ul-Ahrar (HuA),1,1,Military
+201811050031,2018-11-05,Pakistan,Sheikhupura,Hizb-ul-Ahrar (HuA),3,0,Police
+201811050008,2018-11-05,Pakistan,Tang Killay,Hizb-ul-Ahrar (HuA),1,1,Military
+201811040043,2018-11-04,Pakistan,Shah Salim,Unknown,0,1,Police
+201811030031,2018-11-03,Pakistan,Kalpani Kalay,Unknown,1,0,Educational Institution
+201811030011,2018-11-03,Pakistan,Datta Khel,Unknown,0,2,Military
+201811020032,2018-11-02,Pakistan,Islamabad,Unknown,0,0,Government (General)
+201811020011,2018-11-02,Pakistan,Rawalpindi,Unknown,1,0,Private Citizens & Property
+201810310017,2018-10-31,Pakistan,Kohlu,Unknown,0,2,Private Citizens & Property
+201810310004,2018-10-31,Pakistan,Kharan district,Unknown,4,0,Business
+201810310003,2018-10-31,Pakistan,Ganz,Baloch Liberation Army (BLA),5,3,Private Citizens & Property
+201810300014,2018-10-30,Pakistan,Lakki Marwat district,Unknown,0,0,Military
+201810300013,2018-10-30,Pakistan,Miran Shah,Unknown,0,0,Unknown
+201810290016,2018-10-29,Pakistan,Alingar,Hizb-ul-Ahrar (HuA),1,0,Military
+201810290005,2018-10-29,Pakistan,Charmang,Tehrik-i-Taliban Pakistan (TTP),0,4,"Government (General),Police"
+201810270018,2018-10-27,Pakistan,Norak,Unknown,0,0,NGO
+201810270009,2018-10-27,Pakistan,Islamabad,"Khorasan Chapter of the Islamic State,Tehrik-i-Taliban Pakistan (TTP) (suspected)",1,0,Police
+201810260018,2018-10-26,Pakistan,Sabzi Mandi,Unknown,1,0,Government (General)
+201810260012,2018-10-26,Pakistan,Miran Shah,"Hizb-ul-Ahrar (HuA),Tehrik-i-Taliban Pakistan (TTP)",0,2,Military
+201810250013,2018-10-25,Pakistan,Quetta,Tehrik-i-Taliban Pakistan (TTP),1,0,Police
+201810250012,2018-10-25,Pakistan,Washuk,"Baloch Liberation Army (BLA),Baloch Liberation Front (BLF)",2,3,Military
+201810240014,2018-10-24,Pakistan,Khola,Unknown,0,2,Military
+201810240013,2018-10-23,Pakistan,Miran Shah,Unknown,0,1,Private Citizens & Property
+201810240010,2018-10-24,Pakistan,Quetta,Unknown,0,4,Educational Institution
+201810230001,2018-10-23,Pakistan,Spin Wam,Tehrik-i-Taliban Pakistan (TTP) (suspected),4,0,"Military,Utilities"
+201810220025,2018-10-22,Pakistan,Sheik Landak,Unknown,0,5,Private Citizens & Property
+201810220009,2018-10-22,Pakistan,Idak,Unknown,0,3,Private Citizens & Property
+201810190020,2018-10-19,Pakistan,Gwadar district,Unknown,0,0,Unknown
+201810190011,2018-10-19,Pakistan,Walma,Tehrik-i-Taliban Pakistan (TTP),2,0,Military
+201810190007,2018-10-19,Pakistan,Hirak,Unknown,0,0,Transportation
+201810190006,2018-10-19,Pakistan,Hirak,Unknown,0,0,Transportation
+201810170031,2018-10-17,Pakistan,Mian Channu,Unknown,1,0,Violent Political Party
+201810160045,2018-10-16,Pakistan,Haripur district,Unknown,1,0,Journalists & Media
+201810130028,2018-10-13,Pakistan,Jafarabad,Unknown,1,0,Government (General)
+201810130015,2018-10-13,Pakistan,Abakhel,Hizb-ul-Ahrar (HuA),0,0,Utilities
+201810130011,2018-10-13,Pakistan,Turbat,Baloch Liberation Front (BLF),1,0,Military
+201810110010,2018-10-11,Pakistan,Ladha,Tehrik-i-Taliban Pakistan (TTP),3,5,Military
+201810100030,2018-10-10,Pakistan,Wadh,Unknown,0,0,Private Citizens & Property
+201810090016,2018-10-09,Pakistan,Chaman,Tehrik-i-Taliban Pakistan (TTP),0,5,Military
+201810080010,2018-10-08,Pakistan,Karachi,"Ahle Sunnat Wal Jamaat (ASWJ-Pakistan),Hizb-ul-Ahrar (HuA) (suspected),Lashkar-e-Jhangvi",1,0,Police
+201810060036,2018-10-06,Pakistan,Kech district,Unknown,1,0,Military
+201810060013,2018-10-06,Pakistan,Garsani,Unknown,0,6,Private Citizens & Property
+201810050024,2018-10-05,Pakistan,Darra Adam Khel,Tehrik-i-Taliban Pakistan (TTP),1,1,Private Citizens & Property
+201810040005,2018-10-05,Pakistan,Phandu Chowk,Unknown,2,0,"Religious Figures/Institutions,Police"
+201810030024,2018-10-03,Pakistan,Malik Abad,Unknown,0,2,"Religious Figures/Institutions,Private Citizens & Property"
+201810030023,2018-10-03,Pakistan,Quetta,Unknown,1,0,Private Citizens & Property
+201810030007,2018-10-03,Pakistan,Karachi,Hizb-ul-Ahrar (HuA),1,0,Police
+201810020014,2018-10-02,Pakistan,Tump,Unknown,0,2,Military
+201810020013,2018-10-02,Pakistan,Pirandar,Baloch Liberation Front (BLF),3,8,Military
+201810020012,2018-10-02,Pakistan,Hayatabad,Hizb-ul-Ahrar (HuA),0,2,"Military,Private Citizens & Property"
+201810020008,2018-10-02,Pakistan,North Waziristan district,Unknown,7,11,Military
+201810010026,2018-10-01,Pakistan,Dera Bugti district,Unknown,0,2,Private Citizens & Property
+201810010002,2018-10-01,Pakistan,Safi,Hizb-ul-Ahrar (HuA),0,2,Military
+201809300016,2018-09-30,Pakistan,Datta Khel,Unknown,0,0,Unknown
+201809300015,2018-09-30,Pakistan,Jungle Khel,Unknown,1,1,Military
+201809300004,2018-09-30,Pakistan,Arandu,Unknown,0,0,Police
+201809300003,2018-09-30,Pakistan,Arandu,Tehrik-i-Taliban Pakistan (TTP),0,0,Educational Institution
+201809270018,2018-09-27,Pakistan,Spin Wam,Unknown,1,0,Military
+201809260024,2018-09-26,Pakistan,Panjgur district,Baloch Liberation Front (BLF),1,3,Military
+201809250027,2018-09-25,Pakistan,Kalat,Unknown,1,0,Police
+201809240015,2018-09-24,Pakistan,Badan,Unknown,1,0,"Police,Private Citizens & Property"
+201809230026,2018-09-23,Pakistan,Dashat i Goran,Unknown,0,2,Terrorists/Non-state Militia
+201809230025,2018-09-23,Pakistan,Dashat i Goran,Unknown,3,0,Terrorists/Non-state Militia
+201809220016,2018-09-22,Pakistan,Mamond,Tehrik-i-Taliban Pakistan (TTP),2,0,Unknown
+201809200018,2018-09-20,Pakistan,Spin Wam,"Hizb-ul-Ahrar (HuA),Tehrik-i-Taliban Pakistan (TTP)",0,5,Military
+201809200016,2018-09-20,Pakistan,Peshawar district,Unknown,0,0,Violent Political Party
+201809190030,2018-09-19,Pakistan,Bowta,Unknown,0,5,Private Citizens & Property
+201809180028,2018-09-18,Pakistan,Qilla Saifullah,Tehrik-i-Taliban Pakistan (TTP),3,0,Police
+201809180002,2018-09-18,Pakistan,Spin Wam,Unknown,0,2,Military
+201809170014,2018-09-17,Pakistan,Kharan,Unknown,0,6,"Police,Private Citizens & Property"
+201809160027,2018-09-16,Pakistan,Qilla Saifullah,Tehrik-i-Taliban Pakistan (TTP),1,0,Police
+201809140027,2018-09-14,Pakistan,Bannu,Unknown,1,0,Private Citizens & Property
+201809140006,2018-09-14,Pakistan,Pishin district,Hizb-ul-Ahrar (HuA),3,2,"Government (General),Police"
+201809130005,2018-09-13,Pakistan,Boya,Unknown,0,5,Military
+201809050027,2018-09-05,Pakistan,Hamzoni,Unknown,0,0,Military
+201809050012,2018-09-05,Pakistan,Peshawar,Unknown,2,0,Private Citizens & Property
+201809040022,2018-09-04,Pakistan,Naushahro Feroze,Unknown,0,0,Transportation
+201809020018,2018-09-02,Pakistan,Khandwa,Khorasan Chapter of the Islamic State,1,1,Educational Institution
+201809020009,2018-09-02,Pakistan,Bezo Sar,Unknown,1,1,Military
+201809010005,2018-08-31,Pakistan,North Waziristan district,Unknown,0,1,Military
+201808310019,2018-08-31,Pakistan,Kalat,Unknown,1,0,Private Citizens & Property
+201808270022,2018-08-27,Pakistan,Peshawar,Unknown,0,1,Police
+201808270005,2018-08-27,Pakistan,Qila Abdullah,Unknown,1,5,"Private Citizens & Property,Police,Private Citizens & Property"
+201808270004,2018-08-26,Pakistan,Quetta,Unknown,1,0,Private Citizens & Property
+201808260025,2018-08-27,Pakistan,Mastung district,Khorasan Chapter of the Islamic State,1,0,Educational Institution
+201808260002,2018-08-26,Pakistan,Turbat,Baloch Liberation Front (BLF),0,5,"Military,Private Citizens & Property"
+201808250025,2018-08-25,Pakistan,Karachi,Unknown,2,1,Religious Figures/Institutions
+201808250022,2018-08-25,Pakistan,Jani Khel,Unknown,0,0,Unknown
+201808250006,2018-08-25,Pakistan,Mastung district,Tehrik-i-Taliban Pakistan (TTP),0,3,Police
+201808230010,2018-08-23,Pakistan,Datta Khel,Unknown,1,3,Military
+201808190003,2018-08-19,Pakistan,Saingal,Unknown,0,0,Police
+201808190001,2018-08-19,Pakistan,Dringarh,"Hizb-ul-Ahrar (HuA),Tehrik-i-Taliban Pakistan (TTP)",1,6,Military
+201808180021,2018-08-18,Pakistan,Mithi,Unknown,1,0,Violent Political Party
+201808180015,2018-08-18,Pakistan,Dapra Khel,Unknown,1,5,"Military,Private Citizens & Property"
+201808140038,2018-08-14,Pakistan,Qilla Saifullah district,Unknown,0,0,Unknown
+201808140001,2018-08-14,Pakistan,Nushki,Unknown,0,14,Business
+201808130028,2018-08-13,Pakistan,Karachi,Unknown,1,0,Police
+201808130001,2018-08-13,Pakistan,Panjgur district,Unknown,0,2,Military
+201808120001,2018-08-12,Pakistan,Chaman,Tehrik-i-Taliban Pakistan (TTP),1,10,"Military,Private Citizens & Property"
+201808110008,2018-08-11,Pakistan,Diamer district,Unknown,0,0,Government (General)
+201808110007,2018-08-11,Pakistan,Manjiye,Unknown,4,3,Police
+201808110006,2018-08-11,Pakistan,Dalbaldin,Baloch Liberation Army (BLA),1,6,"Business,Military"
+201808090039,2018-08-09,Pakistan,Risalpur,Unknown,0,0,"Government (General),Police"
+201808090038,2018-08-09,Pakistan,Rashakai,Unknown,0,0,"Government (General),Police"
+201808090001,2018-08-09,Pakistan,Turbat,Unknown,1,0,Military
+201808080041,2018-08-08,Pakistan,Jafarabad,Unknown,1,0,Police
+201808080036,2018-08-08,Pakistan,Dera Ismail Khan,Unknown,2,0,Private Citizens & Property
+201808080035,2018-08-08,Pakistan,Dera Ismail Khan,Unknown,1,0,Private Citizens & Property
+201808070032,2018-08-07,Pakistan,Mandan,Unknown,0,0,Educational Institution
+201808070030,2018-08-07,Pakistan,Nasirabad district,Unknown,0,0,Unknown
+201808070022,2018-08-07,Pakistan,Pishin district,Unknown,0,0,Educational Institution
+201808070021,2018-08-07,Pakistan,Pishin district,Unknown,0,0,Educational Institution
+201808060038,2018-08-06,Pakistan,Sariab,Unknown,0,1,Private Citizens & Property
+201808060027,2018-08-06,Pakistan,Sultan Khel,Unknown,0,3,Private Citizens & Property
+201808050013,2018-08-05,Pakistan,Tanger,Unknown,0,0,Private Citizens & Property
+201808050009,2018-08-05,Pakistan,Darel,Unknown,0,0,Government (General)
+201808050007,2018-08-05,Pakistan,Mohajir,Hizb-ul-Ahrar (HuA),0,3,Military
+201808040022,2018-08-04,Pakistan,Karachi,Unknown,0,0,Violent Political Party
+201808040008,2018-08-04,Pakistan,Darel,Tehrik-i-Taliban Pakistan (TTP),0,0,Educational Institution
+201808030025,2018-08-03,Pakistan,Gyal,Tehrik-i-Taliban Pakistan (TTP),0,0,Educational Institution
+201808030024,2018-08-03,Pakistan,Khanbary,Tehrik-i-Taliban Pakistan (TTP),0,0,Educational Institution
+201808030023,2018-08-03,Pakistan,Galee Bala,Tehrik-i-Taliban Pakistan (TTP),0,0,Educational Institution
+201808030022,2018-08-03,Pakistan,Galee Bala,Tehrik-i-Taliban Pakistan (TTP),0,0,Educational Institution
+201808030021,2018-08-03,Pakistan,Sheegay Manikal,Tehrik-i-Taliban Pakistan (TTP),0,0,Educational Institution
+201808030020,2018-08-03,Pakistan,Unknown,Tehrik-i-Taliban Pakistan (TTP),0,0,Educational Institution
+201808030019,2018-08-03,Pakistan,Tabor,Tehrik-i-Taliban Pakistan (TTP),0,0,Educational Institution
+201808030018,2018-08-03,Pakistan,Tabor,Tehrik-i-Taliban Pakistan (TTP),0,0,Educational Institution
+201808030017,2018-08-03,Pakistan,Darel,Tehrik-i-Taliban Pakistan (TTP),0,0,Educational Institution
+201808030016,2018-08-03,Pakistan,Hudur,Tehrik-i-Taliban Pakistan (TTP),0,0,Educational Institution
+201808030015,2018-08-03,Pakistan,Chilas,Tehrik-i-Taliban Pakistan (TTP),0,0,Educational Institution
+201808030014,2018-08-03,Pakistan,Chilas,Tehrik-i-Taliban Pakistan (TTP),0,0,Educational Institution
+201807310037,2018-07-31,Pakistan,Tank district,Unknown,1,1,Government (General)
+201807310021,2018-07-31,Pakistan,Khana Sharif,Unknown,2,0,Police
+201807310020,2018-07-31,Pakistan,Tapai,Unknown,1,1,Private Citizens & Property
+201807260027,2018-07-25,Pakistan,Ropashakh Akbar,Unknown,0,2,Government (General)
+201807250005,2018-07-25,Pakistan,Larkana,Sindhudesh Revolutionary Army (SRA),0,5,Violent Political Party
+201807250004,2018-07-25,Pakistan,Bonistan,Baloch Liberation Front (BLF),0,1,Private Citizens & Property
+201807250003,2018-07-25,Pakistan,Dashtak,Baloch Liberation Front (BLF),4,14,"Government (General),Military"
+201807250002,2018-07-25,Pakistan,Koshk,Unknown,1,3,Government (General)
+201807250001,2018-07-25,Pakistan,Quetta,Khorasan Chapter of the Islamic State,32,60,Police
+201807240034,2018-07-24,Pakistan,Mand,Baloch Liberation Front (BLF),1,10,"Government (General),Private Citizens & Property"
+201807240026,2018-07-24,Pakistan,Hyderabad,Sindhudesh Revolutionary Army (SRA),0,1,Violent Political Party
+201807230037,2018-07-23,Pakistan,Torote,Unknown,7,10,Private Citizens & Property
+201807220035,2018-07-22,Pakistan,Batkhu,Unknown,0,1,Private Citizens & Property
+201807220008,2018-07-22,Pakistan,Mandio,Unknown,0,0,Private Citizens & Property
+201807220007,2018-07-22,Pakistan,Kulachi,Tehrik-i-Taliban Pakistan (TTP),4,4,Private Citizens & Property
+201807220002,2018-07-22,Pakistan,Dalbandin,Unknown,0,20,Private Citizens & Property
+201807200021,2018-07-20,Pakistan,Sokh,Unknown,2,0,Terrorists/Non-state Militia
+201807200019,2018-07-20,Pakistan,Karachi,Unknown,0,1,Religious Figures/Institutions
+201807200011,2018-07-20,Pakistan,Chaman,Tehrik-i-Taliban Pakistan (TTP),0,4,"Police,Private Citizens & Property"
+201807200009,2018-07-20,Pakistan,Multan,Unknown,0,0,Violent Political Party
+201807180036,2018-07-18,Pakistan,Bambhan,Unknown,0,0,Violent Political Party
+201807180015,2018-07-17,Pakistan,Kam Sarobi,Unknown,2,0,Military
+201807170024,2018-07-17,Pakistan,Lower Dir district,Unknown,1,3,Military
+201807170002,2018-07-17,Pakistan,Kalat district,Unknown,0,6,Police
+201807170001,2018-07-17,Pakistan,Gwadar,Unknown,0,0,Private Citizens & Property
+201807160013,2018-07-16,Pakistan,Pir Alizai,Unknown,0,1,Private Citizens & Property
+201807160012,2018-07-16,Pakistan,Attok district,Unknown,0,0,Violent Political Party
+201807130025,2018-07-13,Pakistan,Hurmaz,Unknown,1,1,Military
+201807130012,2018-07-13,Pakistan,Bannu,Tehrik-i-Taliban Pakistan (TTP),4,32,Private Citizens & Property
+201807130010,2018-07-13,Pakistan,Darengarh,"Khorasan Chapter of the Islamic State,Tehrik-i-Taliban Pakistan (TTP)",150,300,Private Citizens & Property
+201807120037,2018-07-12,Pakistan,Peshawar,Unknown,1,1,Government (General)
+201807120004,2018-07-12,Pakistan,Khuzdar,Baloch Nationalists,0,2,Private Citizens & Property
+201807100003,2018-07-10,Pakistan,Peshawar,Tehrik-i-Taliban Pakistan (TTP),23,75,Private Citizens & Property
+201807070005,2018-07-07,Pakistan,Bannu district,Unknown,0,7,Private Citizens & Property
+201807060044,2018-07-06,Pakistan,Hayatabad,Unknown,0,0,Private Citizens & Property
+201807060007,2018-07-06,Pakistan,Kech district,Unknown,0,0,Private Citizens & Property
+201807030006,2018-07-03,Pakistan,Razmak,Unknown,0,10,Violent Political Party
+201807030004,2018-07-03,Pakistan,Toba Nokhani,Baloch Republican Army (BRA),3,5,Business
+201807020014,2018-07-02,Pakistan,Boya,Unknown,2,1,"Government (General),Police"
+201807020012,2018-07-02,Pakistan,Panjgur district,Unknown,2,1,Military
+201807020011,2018-07-02,Pakistan,Kure,Baloch Liberation Front (BLF),6,2,Military
+201806290001,2018-06-29,Pakistan,Lehri,Unknown,0,1,Private Citizens & Property
+201806260018,2018-06-26,Pakistan,Dera Ismail Khan,Unknown,1,1,Police
+201806260016,2018-06-26,Pakistan,Garbaz,Unknown,1,0,Military
+201806240029,2018-06-24,Pakistan,Garbaz,Tehrik-i-Taliban Pakistan (TTP),1,1,Military
+201806230009,2018-06-23,Pakistan,Manjhoo Shori,Unknown,0,6,"Police,Private Citizens & Property"
+201806220029,2018-06-22,Pakistan,Dera Murad Jamali,Unknown,0,0,Religious Figures/Institutions
+201806220027,2018-06-22,Pakistan,Malakwal,Unknown,1,1,Violent Political Party
+201806210021,2018-06-21,Pakistan,Miran Shah,Unknown,1,2,Business
+201806210014,2018-06-21,Pakistan,Hayatabad,Unknown,1,0,Police
+201806210003,2018-06-21,Pakistan,Bandi Kach,Unknown,1,0,Military
+201806200027,2018-06-20,Pakistan,Quetta,Tehrik-i-Taliban Pakistan (TTP),2,1,Police
+201806200015,2018-06-20,Pakistan,Shehdad Kot,Unknown,0,0,Violent Political Party
+201806190024,2018-06-19,Pakistan,Islamabad,Unknown,0,0,Unknown
+201806170021,2018-06-17,Pakistan,Hayatabad,Unknown,0,0,Unknown
+201806160006,2018-06-16,Pakistan,Sariab,Tehrik-i-Taliban Pakistan (TTP),3,0,Police
+201806150005,2018-06-15,Pakistan,Kohlu,Unknown,0,0,Educational Institution
+201806150004,2018-06-15,Pakistan,Kohlu,Unknown,0,0,Government (General)
+201806150003,2018-06-15,Pakistan,Kohlu,Unknown,0,0,Private Citizens & Property
+201806150001,2018-06-15,Pakistan,Shawal,Hizb-ul-Ahrar (HuA),8,0,Military
+201806130029,2018-06-13,Pakistan,Taxila,Unknown,0,1,Private Citizens & Property
+201806120031,2018-06-12,Pakistan,Faisalabad,Tehrik-i-Taliban Pakistan (TTP),0,0,Police
+201806100024,2018-06-10,Pakistan,Kahna,Unknown,0,1,Police
+201806100023,2018-06-10,Pakistan,Turbat,Unknown,0,0,Private Citizens & Property
+201806100022,2018-06-10,Pakistan,Mand,Unknown,0,0,Government (General)
+201806080033,2018-06-08,Pakistan,Peshawar,Unknown,0,1,Religious Figures/Institutions
+201806080028,2018-06-07,Pakistan,Lamotai Sori Pao,Tehrik-i-Taliban Pakistan (TTP),3,2,Police
+201806070048,2018-06-07,Pakistan,Sathak Bun,Baloch Liberation Army (BLA),0,0,Military
+201806070047,2018-06-07,Pakistan,Sibi,Baloch Liberation Army (BLA),0,0,Military
+201806070031,2018-06-07,Pakistan,Alingar,Hizb-ul-Ahrar (HuA),1,0,Military
+201806070029,2018-06-07,Pakistan,Peshawar,Unknown,0,0,Violent Political Party
+201806070005,2018-06-06,Pakistan,Quetta,Khorasan Chapter of the Islamic State,1,1,Police
+201806060016,2018-06-06,Pakistan,Lamotai Sori Pao,Tehrik-i-Taliban Pakistan (TTP),1,0,Terrorists/Non-state Militia
+201806050009,2018-06-05,Pakistan,Gandawa,Unknown,0,0,Private Citizens & Property
+201806040025,2018-06-04,Pakistan,Mastung,Khorasan Chapter of the Islamic State,5,2,Military
+201806030017,2018-06-03,Pakistan,Wana Karikot,Mullah Nazir Group,2,25,Private Citizens & Property
+201806030004,2018-06-03,Pakistan,Bajaur district,Tehrik-i-Taliban Pakistan (TTP),3,2,"Military,Military"
+201806030003,2018-06-03,Pakistan,Qamar-ud-Din Karez,Tehrik-i-Taliban Pakistan (TTP),3,3,"Military,Military"
+201806020025,2018-06-02,Pakistan,Sarobi,Hizb-ul-Ahrar (HuA),1,3,"Government (General),Police"
+201806020008,2018-06-03,Pakistan,Dera Ismail Khan,Unknown,0,2,Police
+201806020007,2018-06-02,Pakistan,Hub,Hizb-ul-Ahrar (HuA),1,2,Military
+201806010027,2018-06-01,Pakistan,Pishukan,Unknown,1,2,Business
+201806010018,2018-06-01,Pakistan,Dhadar,Unknown,0,0,Government (General)
+201805300029,2018-05-30,Pakistan,Kulachi,Unknown,0,0,Police
+201805300016,2018-05-30,Pakistan,Datta Khel,Unknown,2,3,Military
+201805290034,2018-05-29,Pakistan,Chahar Mang,Tehrik-i-Taliban Pakistan (TTP),0,1,Private Citizens & Property
+201805290012,2018-05-29,Pakistan,Chamkani,Khorasan Chapter of the Islamic State,0,2,Government (General)
+201805280018,2018-05-28,Pakistan,Dera Ismail Khan,Unknown,1,0,Police
+201805280004,2018-05-28,Pakistan,Dera Murad Jamali,Unknown,1,15,"Police,Private Citizens & Property"
+201805270006,2018-05-27,Pakistan,Quetta,Khorasan Chapter of the Islamic State,4,5,"Police,Private Citizens & Property"
+201805260026,2018-05-26,Pakistan,Hyderabad,Unknown,0,0,Transportation
+201805260021,2018-05-26,Pakistan,Balngur,Unknown,1,0,Educational Institution
+201805260018,2018-05-26,Pakistan,Gujrat,Tehrik-i-Taliban Pakistan (TTP),6,0,Police
+201805250020,2018-05-25,Pakistan,Dera Ismail Khan,Unknown,0,1,Police
+201805250015,2018-05-25,Pakistan,Kharan district,Unknown,0,0,Telecommunication
+201805250014,2018-05-25,Pakistan,Sawal Dher,Unknown,1,0,Private Citizens & Property
+201805240034,2018-05-24,Pakistan,Kulachi,Unknown,0,0,"Police,Military"
+201805240032,2018-05-24,Pakistan,Parod,Unknown,1,1,Private Citizens & Property
+201805230003,2018-05-23,Pakistan,Quetta,Unknown,0,0,Police
+201805230002,2018-05-23,Pakistan,Hazar Ganji,Unknown,0,0,Police
+201805210037,2018-05-21,Pakistan,Miran Shah,Unknown,0,0,Military
+201805210031,2018-05-21,Pakistan,Hyderabad,Unknown,0,0,Transportation
+201805200038,2018-05-20,Pakistan,Hangu,Unknown,0,0,Unknown
+201805190021,2018-05-19,Pakistan,Quetta,Khorasan Chapter of the Islamic State,1,0,Religious Figures/Institutions
+201805170005,2018-05-17,Pakistan,Quetta,"Hizb-ul-Ahrar (HuA),Lashkar-e-Jhangvi,Tehrik-i-Taliban Pakistan (TTP)",6,3,"Police,Military"
+201805170004,2018-05-17,Pakistan,Kachehri,"Hizb-ul-Ahrar (HuA),Tehrik-i-Taliban Pakistan (TTP)",2,9,"Military,Private Citizens & Property"
+201805140009,2018-05-14,Pakistan,Miran Shah,Unknown,0,2,Military
+201805130050,2018-05-13,Pakistan,Sultankhel,Unknown,0,1,Private Citizens & Property
+201805130049,2018-05-13,Pakistan,Mir Ali,Unknown,1,0,Educational Institution
+201805130048,2018-05-13,Pakistan,Mir Ali,Unknown,1,0,Government (General)
+201805130018,2018-05-13,Pakistan,Shawal,Tehrik-i-Taliban Pakistan (TTP),6,1,Military
+201805110002,2018-05-11,Pakistan,Kohat Chowrangi,Tehrik-i-Taliban Pakistan (TTP),1,13,"Police,Private Citizens & Property"
+201805100030,2018-05-10,Pakistan,Khar,Unknown,0,1,Private Citizens & Property
+201805100023,2018-05-10,Pakistan,Spezand,Unknown,0,0,Transportation
+201805100002,2018-05-10,Pakistan,Hassu Khel,Unknown,0,0,Educational Institution
+201805090024,2018-05-09,Pakistan,Karachi,Baba Ladla Gang,0,4,Violent Political Party
+201805080037,2018-05-08,Pakistan,Sadiq Banda,Unknown,3,6,Police
+201805070004,2018-05-07,Pakistan,Mir Ali,Unknown,0,0,Educational Institution
+201805060034,2018-05-06,Pakistan,Datta Khel,Unknown,0,0,Military
+201805060007,2018-05-06,Pakistan,Kanjrur,Tehreek-e-Labbaik Pakistan (TLP) (suspected),0,1,Government (General)
+201805050046,2018-05-05,Pakistan,Mianli,Lashkar-e-Jhangvi,2,2,Private Citizens & Property
+201805040038,2018-05-04,Pakistan,Kharan,Unknown,0,0,Government (General)
+201805040008,2018-05-04,Pakistan,Mand,Unknown,1,3,Private Citizens & Property
+201805040007,2018-05-04,Pakistan,Lajjay,Baloch Nationalists,6,1,Telecommunication
+201805030019,2018-05-03,Pakistan,Panjgur district,Unknown,1,0,Police
+201805030003,2018-05-03,Pakistan,Jani Khel,Hizb-ul-Ahrar (HuA),0,2,Military
+201805030002,2018-05-03,Pakistan,Dhok Gama,Hizb-ul-Ahrar (HuA),4,9,"Government (General),Private Citizens & Property"
+201805020033,2018-05-02,Pakistan,Quetta,Unknown,0,1,Government (General)
+201805020031,2018-05-02,Pakistan,Aman Ghundi,Hizb-ul-Ahrar (HuA),0,0,Military
+201804290023,2018-04-29,Pakistan,Quetta,Unknown,2,1,Private Citizens & Property
+201804280028,2018-04-28,Pakistan,Takht-e-Nusrati,Unknown,0,1,Police
+201804280023,2018-04-28,Pakistan,Dera Ismail Khan,Unknown,0,1,Police
+201804280008,2018-04-28,Pakistan,Quetta,Khorasan Chapter of the Islamic State,2,0,Private Citizens & Property
+201804280007,2018-04-28,Pakistan,Momi Karam,Unknown,4,0,Private Citizens & Property
+201804270016,2018-04-27,Pakistan,Quetta,Unknown,1,0,Religious Figures/Institutions
+201804270013,2018-04-27,Pakistan,Dera Ismail Khan,Unknown,0,3,"Police,Private Citizens & Property"
+201804270001,2018-04-27,Pakistan,Saidgai,Unknown,5,32,Private Citizens & Property
+201804260013,2018-04-26,Pakistan,Sheikh Baba,Hizb-ul-Ahrar (HuA),4,0,Military
+201804250007,2018-04-25,Pakistan,Maddi,Unknown,1,0,Government (General)
+201804240009,2018-04-24,Pakistan,Dera Ismail Khan,Tehrik-i-Taliban Pakistan (TTP),0,2,Police
+201804240008,2018-04-24,Pakistan,Zarkani,Unknown,0,5,Military
+201804240007,2018-04-24,Pakistan,Quetta,"Hizb-ul-Ahrar (HuA),Khorasan Chapter of the Islamic State",7,7,Police
+201804240006,2018-04-24,Pakistan,Quetta,"Hizb-ul-Ahrar (HuA),Khorasan Chapter of the Islamic State",2,8,Military
+201804230021,2018-04-23,Pakistan,Swabi district,Unknown,1,0,Private Citizens & Property
+201804230002,2018-04-23,Pakistan,Quetta,Unknown,0,1,Business
+201804220009,2018-04-22,Pakistan,Kam Sarobi,Unknown,0,0,Military
+201804220008,2018-04-22,Pakistan,Dre Wastay,Hizb-ul-Ahrar (HuA),1,3,Military
+201804220003,2018-04-22,Pakistan,Quetta,Khorasan Chapter of the Islamic State,2,1,"Police,Private Citizens & Property"
+201804210054,2018-04-21,Pakistan,Karachi,Unknown,1,1,Police
+201804190006,2018-04-18,Pakistan,Datta Khel,Unknown,1,0,Unknown
+201804180017,2018-04-18,Pakistan,Dars Jummat,Unknown,0,2,Private Citizens & Property
+201804180005,2018-04-18,Pakistan,Pathar Nala,Unknown,0,3,Private Citizens & Property
+201804180003,2018-04-18,Pakistan,Quetta,Khorasan Chapter of the Islamic State,1,0,Private Citizens & Property
+201804150047,2018-04-15,Pakistan,Shahdra,Unknown,0,0,Religious Figures/Institutions
+201804150034,2018-04-15,Pakistan,Lahore,Unknown,0,0,Government (General)
+201804150004,2018-04-15,Pakistan,Mir Ali,Hizb-ul-Ahrar (HuA),0,3,Military
+201804150001,2018-04-15,Pakistan,Quetta,"Khorasan Chapter of the Islamic State,Lashkar-e-Jhangvi",2,3,Private Citizens & Property
+201804140029,2018-04-14,Pakistan,Lahore,Unknown,0,0,Government (General)
+201804120009,2018-04-12,Pakistan,Kahan,Unknown,1,1,Private Citizens & Property
+201804120008,2018-04-12,Pakistan,Sangsila,Baloch Republican Army (BRA),0,1,Military
+201804110035,2018-04-11,Pakistan,Dera Ismail Khan,Unknown,0,1,Police
