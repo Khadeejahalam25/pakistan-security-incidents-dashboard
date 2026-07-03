@@ -57,13 +57,6 @@ Then open `http://localhost:8000` in your browser. (Opening `index.html` directl
 `file://` won't work — browsers block `d3.csv()` from loading local files without a server, due
 to CORS restrictions.)
 
-## What I'd improve next
-
-- Geocode the remaining smaller localities for full map coverage
-- Add filtering controls (by year, perpetrator group, or target type) shared across all five views
-- Add a legend to the force-directed graph and sunburst chart
-- Consider a small static file server config (e.g. GitHub Pages) so it's viewable without cloning
-
 ## License
 
 MIT
