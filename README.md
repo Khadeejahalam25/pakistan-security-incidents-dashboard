@@ -40,7 +40,7 @@ D3.js v6 · HTML/CSS/JavaScript · Python/pandas (data cleaning)
   - `map_data.csv` — geocoded incidents for the map chart.
   - `timeline_data.csv` — monthly incident counts for the timeline.
   - `hierarchy_data.csv` — target-type → perpetrator-group hierarchy for the tree map and sunburst.
-- `style.css` — shared landing page styling.
+- `style.css` — shared landing page styling
 
 ## How to run it
 
