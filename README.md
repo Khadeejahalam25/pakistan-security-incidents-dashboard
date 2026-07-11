@@ -14,6 +14,7 @@ as a Data Analysis & Visualization course project.
    animate the trend building up over time.
 4. **Tree Map** — target types broken down by perpetrator group, area sized by incident count.
 5. **Sunburst Chart** — the same target-type → perpetrator-group hierarchy in a radial layout.
+<img width="1917" height="896" alt="image" src="https://github.com/user-attachments/assets/db27b9c9-b9f8-49c2-9f79-9071c787a657" />
 
 ## Dataset
 
