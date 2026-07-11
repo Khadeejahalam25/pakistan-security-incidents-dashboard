@@ -51,8 +51,6 @@ git clone https://github.com/<your-username>/pakistan-security-incidents-dashboa
 cd pakistan-security-incidents-dashboard
 
 python3 -m http.server 8000
-``<img width="959" height="448" alt="qazx" src="https://github.com/user-attachments/assets/37ed3ea3-fc39-4d6d-a54d-8686e47c844f" />
-`
 
 Then open `http://localhost:8000` in your browser. (Opening `index.html` directly via
 `file://` won't work — browsers block `d3.csv()` from loading local files without a server, due
